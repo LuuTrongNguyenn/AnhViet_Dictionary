@@ -352,8 +352,6 @@ Hệ thống LexiTrie tập trung vào các chức năng sau:
 
 ### Lưu Trọng Nguyên – Trie, DFS và WebView2
 
-**Task Jira:** DSA-3, DSA-5, DSA-7, DSA-16, DSA-18, DSA-19, DSA-25, DSA-27.
-
 **Công việc:**
 
 - Thiết kế TrieNode và lớp Trie.
@@ -364,8 +362,6 @@ Hệ thống LexiTrie tập trung vào các chức năng sau:
 - Viết báo cáo thuật toán, cài đặt chương trình và kết luận.
 
 ### Châu Thiện An – Console và Backend
-
-**Task Jira:** DSA-9, DSA-10, DSA-11, DSA-12, DSA-17, DSA-26.
 
 **Công việc:**
 
@@ -378,7 +374,6 @@ Hệ thống LexiTrie tập trung vào các chức năng sau:
 
 ### Dương Đình Khánh – Dữ liệu và Smart Review
 
-**Task Jira:** DSA-4, DSA-6, DSA-8, DSA-13, DSA-15, DSA-20.
 
 **Công việc:**
 
