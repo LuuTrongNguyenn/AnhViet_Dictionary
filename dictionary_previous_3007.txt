@@ -1,0 +1,3007 @@
+apple|quả táo
+banana|quả chuối
+book|quyển sách
+car|xe ô tô
+card|tấm thẻ
+cat|con mèo
+computer|máy tính
+orange|quả cam; màu cam
+bread|bánh mì
+rice|gạo; cơm
+water|nước
+milk|sữa
+coffee|cà phê
+tea|trà
+sugar|đường
+salt|muối
+meat|thịt
+fish|cá
+chicken|thịt gà; con gà
+egg|trứng
+cheese|phô mai
+fruit|trái cây
+vegetable|rau củ
+breakfast|bữa sáng
+lunch|bữa trưa
+dinner|bữa tối
+school|trường học
+student|học sinh; sinh viên
+teacher|giáo viên
+learn|học
+study|học; nghiên cứu
+read|đọc
+write|viết
+word|từ; từ vựng
+language|ngôn ngữ
+question|câu hỏi
+answer|câu trả lời; trả lời
+exam|kỳ thi
+class|lớp học
+lesson|bài học
+paper|giấy; bài viết
+pencil|bút chì
+pen|bút mực
+dictionary|từ điển
+phone|điện thoại
+internet|mạng Internet
+website|trang web
+software|phần mềm
+hardware|phần cứng
+data|dữ liệu
+program|chương trình
+code|mã lập trình
+screen|màn hình
+keyboard|bàn phím
+mouse|chuột máy tính; con chuột
+file|tệp tin
+network|mạng
+bus|xe buýt
+train|tàu hỏa
+plane|máy bay
+airport|sân bay
+station|nhà ga; trạm
+hotel|khách sạn
+travel|du lịch; đi lại
+ticket|vé
+map|bản đồ
+road|con đường
+street|đường phố
+city|thành phố
+country|quốc gia; nông thôn
+beach|bãi biển
+mountain|núi
+river|sông
+park|công viên
+room|phòng
+passport|hộ chiếu
+work|làm việc; công việc
+job|công việc
+office|văn phòng
+company|công ty
+business|kinh doanh; doanh nghiệp
+manager|người quản lý
+meeting|cuộc họp
+money|tiền
+price|giá cả
+pay|trả tiền; thanh toán
+buy|mua
+sell|bán
+customer|khách hàng
+service|dịch vụ
+team|đội; nhóm
+report|báo cáo
+plan|kế hoạch; lên kế hoạch
+project|dự án
+email|thư điện tử
+market|thị trường; chợ
+family|gia đình
+mother|mẹ
+father|bố; cha
+parent|cha mẹ
+sister|chị; em gái
+brother|anh; em trai
+friend|bạn bè
+child|đứa trẻ
+person|người
+people|mọi người
+man|đàn ông
+woman|phụ nữ
+name|tên
+happy|vui vẻ
+sad|buồn
+angry|tức giận
+love|yêu; tình yêu
+like|thích
+hope|hy vọng
+fear|sợ hãi
+good|tốt
+bad|xấu; tệ
+big|to; lớn
+small|nhỏ
+long|dài
+short|ngắn; thấp
+high|cao
+low|thấp
+new|mới
+old|cũ; già
+young|trẻ
+easy|dễ
+hard|khó; cứng
+fast|nhanh
+slow|chậm
+hot|nóng
+cold|lạnh
+warm|ấm
+cool|mát; ngầu
+beautiful|đẹp
+important|quan trọng
+different|khác nhau
+same|giống nhau
+right|đúng; bên phải
+wrong|sai
+run|chạy
+walk|đi bộ
+go|đi
+come|đến
+see|nhìn thấy
+look|nhìn
+watch|xem; theo dõi
+listen|nghe
+hear|nghe thấy
+speak|nói
+talk|trò chuyện
+say|nói
+tell|kể; bảo
+make|làm; tạo ra
+do|làm
+get|nhận; lấy
+give|đưa; cho
+take|lấy; mang
+keep|giữ
+find|tìm thấy
+think|suy nghĩ
+know|biết
+understand|hiểu
+remember|nhớ
+forget|quên
+open|mở
+close|đóng
+start|bắt đầu
+finish|hoàn thành
+help|giúp đỡ
+use|sử dụng
+need|cần
+want|muốn
+try|cố gắng; thử
+choose|lựa chọn
+change|thay đổi
+move|di chuyển
+live|sống
+feel|cảm thấy
+play|chơi
+eat|ăn
+drink|uống
+sleep|ngủ
+cook|nấu ăn
+clean|làm sạch
+house|ngôi nhà
+home|nhà; tổ ấm
+door|cửa ra vào
+window|cửa sổ
+table|cái bàn
+chair|cái ghế
+bed|giường
+kitchen|nhà bếp
+bathroom|phòng tắm
+clothes|quần áo
+shirt|áo sơ mi
+shoes|giày
+bag|cái túi
+key|chìa khóa
+light|ánh sáng; đèn
+air|không khí
+sun|mặt trời
+moon|mặt trăng
+star|ngôi sao
+sky|bầu trời
+cloud|đám mây
+rain|mưa
+wind|gió
+weather|thời tiết
+tree|cây
+flower|hoa
+grass|cỏ
+animal|động vật
+dog|con chó
+bird|con chim
+horse|con ngựa
+health|sức khỏe
+doctor|bác sĩ
+nurse|y tá
+hospital|bệnh viện
+medicine|thuốc
+pain|cơn đau
+head|đầu
+eye|mắt
+ear|tai
+nose|mũi
+mouth|miệng
+hand|bàn tay
+foot|bàn chân
+heart|trái tim
+body|cơ thể
+apples|các; dạng số nhiều quả táo
+appleed|đã; dạng quá khứ quả táo
+appleing|đang; dạng tiếp diễn quả táo
+appleer|người thực hiện quả táo
+appleers|những người thực hiện quả táo
+appleful|đầy; có nhiều quả táo
+appleless|không có quả táo
+applely|một cách quả táo
+appleness|sự; trạng thái quả táo
+appleable|có thể quả táo
+applement|sự; việc quả táo
+appletion|sự; việc quả táo
+appleations|các sự; việc quả táo
+appleist|người chuyên về quả táo
+appleists|những người chuyên về quả táo
+appleal|thuộc về quả táo
+appleous|có tính chất quả táo
+appleive|có tính chất quả táo
+appley|có tính chất quả táo
+bananas|các; dạng số nhiều quả chuối
+bananaed|đã; dạng quá khứ quả chuối
+bananaing|đang; dạng tiếp diễn quả chuối
+bananaer|người thực hiện quả chuối
+bananaers|những người thực hiện quả chuối
+bananaful|đầy; có nhiều quả chuối
+bananaless|không có quả chuối
+bananaly|một cách quả chuối
+banananess|sự; trạng thái quả chuối
+bananaable|có thể quả chuối
+bananament|sự; việc quả chuối
+bananation|sự; việc quả chuối
+bananaations|các sự; việc quả chuối
+bananaist|người chuyên về quả chuối
+bananaists|những người chuyên về quả chuối
+bananaal|thuộc về quả chuối
+bananaous|có tính chất quả chuối
+bananaive|có tính chất quả chuối
+bananay|có tính chất quả chuối
+oranges|các; dạng số nhiều quả cam; màu cam
+orangeed|đã; dạng quá khứ quả cam; màu cam
+orangeing|đang; dạng tiếp diễn quả cam; màu cam
+orangeer|người thực hiện quả cam; màu cam
+orangeers|những người thực hiện quả cam; màu cam
+orangeful|đầy; có nhiều quả cam; màu cam
+orangeless|không có quả cam; màu cam
+orangely|một cách quả cam; màu cam
+orangeness|sự; trạng thái quả cam; màu cam
+orangeable|có thể quả cam; màu cam
+orangement|sự; việc quả cam; màu cam
+orangetion|sự; việc quả cam; màu cam
+orangeations|các sự; việc quả cam; màu cam
+orangeist|người chuyên về quả cam; màu cam
+orangeists|những người chuyên về quả cam; màu cam
+orangeal|thuộc về quả cam; màu cam
+orangeous|có tính chất quả cam; màu cam
+orangeive|có tính chất quả cam; màu cam
+orangey|có tính chất quả cam; màu cam
+breads|các; dạng số nhiều bánh mì
+breaded|đã; dạng quá khứ bánh mì
+breading|đang; dạng tiếp diễn bánh mì
+breader|người thực hiện bánh mì
+breaders|những người thực hiện bánh mì
+breadful|đầy; có nhiều bánh mì
+breadless|không có bánh mì
+breadly|một cách bánh mì
+breadness|sự; trạng thái bánh mì
+breadable|có thể bánh mì
+breadment|sự; việc bánh mì
+breadtion|sự; việc bánh mì
+breadations|các sự; việc bánh mì
+breadist|người chuyên về bánh mì
+breadists|những người chuyên về bánh mì
+breadal|thuộc về bánh mì
+breadous|có tính chất bánh mì
+breadive|có tính chất bánh mì
+bready|có tính chất bánh mì
+rices|các; dạng số nhiều gạo; cơm
+riceed|đã; dạng quá khứ gạo; cơm
+riceing|đang; dạng tiếp diễn gạo; cơm
+riceer|người thực hiện gạo; cơm
+riceers|những người thực hiện gạo; cơm
+riceful|đầy; có nhiều gạo; cơm
+riceless|không có gạo; cơm
+ricely|một cách gạo; cơm
+riceness|sự; trạng thái gạo; cơm
+riceable|có thể gạo; cơm
+ricement|sự; việc gạo; cơm
+ricetion|sự; việc gạo; cơm
+riceations|các sự; việc gạo; cơm
+riceist|người chuyên về gạo; cơm
+riceists|những người chuyên về gạo; cơm
+riceal|thuộc về gạo; cơm
+riceous|có tính chất gạo; cơm
+riceive|có tính chất gạo; cơm
+ricey|có tính chất gạo; cơm
+waters|các; dạng số nhiều nước
+watered|đã; dạng quá khứ nước
+watering|đang; dạng tiếp diễn nước
+waterer|người thực hiện nước
+waterers|những người thực hiện nước
+waterful|đầy; có nhiều nước
+waterless|không có nước
+waterly|một cách nước
+waterness|sự; trạng thái nước
+waterable|có thể nước
+waterment|sự; việc nước
+watertion|sự; việc nước
+waterations|các sự; việc nước
+waterist|người chuyên về nước
+waterists|những người chuyên về nước
+wateral|thuộc về nước
+waterous|có tính chất nước
+waterive|có tính chất nước
+watery|có tính chất nước
+milks|các; dạng số nhiều sữa
+milked|đã; dạng quá khứ sữa
+milking|đang; dạng tiếp diễn sữa
+milker|người thực hiện sữa
+milkers|những người thực hiện sữa
+milkful|đầy; có nhiều sữa
+milkless|không có sữa
+milkly|một cách sữa
+milkness|sự; trạng thái sữa
+milkable|có thể sữa
+milkment|sự; việc sữa
+milktion|sự; việc sữa
+milkations|các sự; việc sữa
+milkist|người chuyên về sữa
+milkists|những người chuyên về sữa
+milkal|thuộc về sữa
+milkous|có tính chất sữa
+milkive|có tính chất sữa
+milky|có tính chất sữa
+coffees|các; dạng số nhiều cà phê
+coffeeed|đã; dạng quá khứ cà phê
+coffeeing|đang; dạng tiếp diễn cà phê
+coffeeer|người thực hiện cà phê
+coffeeers|những người thực hiện cà phê
+coffeeful|đầy; có nhiều cà phê
+coffeeless|không có cà phê
+coffeely|một cách cà phê
+coffeeness|sự; trạng thái cà phê
+coffeeable|có thể cà phê
+coffeement|sự; việc cà phê
+coffeetion|sự; việc cà phê
+coffeeations|các sự; việc cà phê
+coffeeist|người chuyên về cà phê
+coffeeists|những người chuyên về cà phê
+coffeeal|thuộc về cà phê
+coffeeous|có tính chất cà phê
+coffeeive|có tính chất cà phê
+coffeey|có tính chất cà phê
+teas|các; dạng số nhiều trà
+teaed|đã; dạng quá khứ trà
+teaing|đang; dạng tiếp diễn trà
+teaer|người thực hiện trà
+teaers|những người thực hiện trà
+teaful|đầy; có nhiều trà
+tealess|không có trà
+tealy|một cách trà
+teaness|sự; trạng thái trà
+teaable|có thể trà
+teament|sự; việc trà
+teation|sự; việc trà
+teaations|các sự; việc trà
+teaist|người chuyên về trà
+teaists|những người chuyên về trà
+teaal|thuộc về trà
+teaous|có tính chất trà
+teaive|có tính chất trà
+teay|có tính chất trà
+sugars|các; dạng số nhiều đường
+sugared|đã; dạng quá khứ đường
+sugaring|đang; dạng tiếp diễn đường
+sugarer|người thực hiện đường
+sugarers|những người thực hiện đường
+sugarful|đầy; có nhiều đường
+sugarless|không có đường
+sugarly|một cách đường
+sugarness|sự; trạng thái đường
+sugarable|có thể đường
+sugarment|sự; việc đường
+sugartion|sự; việc đường
+sugarations|các sự; việc đường
+sugarist|người chuyên về đường
+sugarists|những người chuyên về đường
+sugaral|thuộc về đường
+sugarous|có tính chất đường
+sugarive|có tính chất đường
+sugary|có tính chất đường
+salts|các; dạng số nhiều muối
+salted|đã; dạng quá khứ muối
+salting|đang; dạng tiếp diễn muối
+salter|người thực hiện muối
+salters|những người thực hiện muối
+saltful|đầy; có nhiều muối
+saltless|không có muối
+saltly|một cách muối
+saltness|sự; trạng thái muối
+saltable|có thể muối
+saltment|sự; việc muối
+salttion|sự; việc muối
+saltations|các sự; việc muối
+saltist|người chuyên về muối
+saltists|những người chuyên về muối
+saltal|thuộc về muối
+saltous|có tính chất muối
+saltive|có tính chất muối
+salty|có tính chất muối
+meats|các; dạng số nhiều thịt
+meated|đã; dạng quá khứ thịt
+meating|đang; dạng tiếp diễn thịt
+meater|người thực hiện thịt
+meaters|những người thực hiện thịt
+meatful|đầy; có nhiều thịt
+meatless|không có thịt
+meatly|một cách thịt
+meatness|sự; trạng thái thịt
+meatable|có thể thịt
+meatment|sự; việc thịt
+meattion|sự; việc thịt
+meatations|các sự; việc thịt
+meatist|người chuyên về thịt
+meatists|những người chuyên về thịt
+meatal|thuộc về thịt
+meatous|có tính chất thịt
+meative|có tính chất thịt
+meaty|có tính chất thịt
+fishs|các; dạng số nhiều cá
+fished|đã; dạng quá khứ cá
+fishing|đang; dạng tiếp diễn cá
+fisher|người thực hiện cá
+fishers|những người thực hiện cá
+fishful|đầy; có nhiều cá
+fishless|không có cá
+fishly|một cách cá
+fishness|sự; trạng thái cá
+fishable|có thể cá
+fishment|sự; việc cá
+fishtion|sự; việc cá
+fishations|các sự; việc cá
+fishist|người chuyên về cá
+fishists|những người chuyên về cá
+fishal|thuộc về cá
+fishous|có tính chất cá
+fishive|có tính chất cá
+fishy|có tính chất cá
+chickens|các; dạng số nhiều thịt gà; con gà
+chickened|đã; dạng quá khứ thịt gà; con gà
+chickening|đang; dạng tiếp diễn thịt gà; con gà
+chickener|người thực hiện thịt gà; con gà
+chickeners|những người thực hiện thịt gà; con gà
+chickenful|đầy; có nhiều thịt gà; con gà
+chickenless|không có thịt gà; con gà
+chickenly|một cách thịt gà; con gà
+chickenness|sự; trạng thái thịt gà; con gà
+chickenable|có thể thịt gà; con gà
+chickenment|sự; việc thịt gà; con gà
+chickention|sự; việc thịt gà; con gà
+chickenations|các sự; việc thịt gà; con gà
+chickenist|người chuyên về thịt gà; con gà
+chickenists|những người chuyên về thịt gà; con gà
+chickenal|thuộc về thịt gà; con gà
+chickenous|có tính chất thịt gà; con gà
+chickenive|có tính chất thịt gà; con gà
+chickeny|có tính chất thịt gà; con gà
+eggs|các; dạng số nhiều trứng
+egged|đã; dạng quá khứ trứng
+egging|đang; dạng tiếp diễn trứng
+egger|người thực hiện trứng
+eggers|những người thực hiện trứng
+eggful|đầy; có nhiều trứng
+eggless|không có trứng
+eggly|một cách trứng
+eggness|sự; trạng thái trứng
+eggable|có thể trứng
+eggment|sự; việc trứng
+eggtion|sự; việc trứng
+eggations|các sự; việc trứng
+eggist|người chuyên về trứng
+eggists|những người chuyên về trứng
+eggal|thuộc về trứng
+eggous|có tính chất trứng
+eggive|có tính chất trứng
+eggy|có tính chất trứng
+cheeses|các; dạng số nhiều phô mai
+cheeseed|đã; dạng quá khứ phô mai
+cheeseing|đang; dạng tiếp diễn phô mai
+cheeseer|người thực hiện phô mai
+cheeseers|những người thực hiện phô mai
+cheeseful|đầy; có nhiều phô mai
+cheeseless|không có phô mai
+cheesely|một cách phô mai
+cheeseness|sự; trạng thái phô mai
+cheeseable|có thể phô mai
+cheesement|sự; việc phô mai
+cheesetion|sự; việc phô mai
+cheeseations|các sự; việc phô mai
+cheeseist|người chuyên về phô mai
+cheeseists|những người chuyên về phô mai
+cheeseal|thuộc về phô mai
+cheeseous|có tính chất phô mai
+cheeseive|có tính chất phô mai
+cheesey|có tính chất phô mai
+fruits|các; dạng số nhiều trái cây
+fruited|đã; dạng quá khứ trái cây
+fruiting|đang; dạng tiếp diễn trái cây
+fruiter|người thực hiện trái cây
+fruiters|những người thực hiện trái cây
+fruitful|đầy; có nhiều trái cây
+fruitless|không có trái cây
+fruitly|một cách trái cây
+fruitness|sự; trạng thái trái cây
+fruitable|có thể trái cây
+fruitment|sự; việc trái cây
+fruittion|sự; việc trái cây
+fruitations|các sự; việc trái cây
+fruitist|người chuyên về trái cây
+fruitists|những người chuyên về trái cây
+fruital|thuộc về trái cây
+fruitous|có tính chất trái cây
+fruitive|có tính chất trái cây
+fruity|có tính chất trái cây
+vegetables|các; dạng số nhiều rau củ
+vegetableed|đã; dạng quá khứ rau củ
+vegetableing|đang; dạng tiếp diễn rau củ
+vegetableer|người thực hiện rau củ
+vegetableers|những người thực hiện rau củ
+vegetableful|đầy; có nhiều rau củ
+vegetableless|không có rau củ
+vegetablely|một cách rau củ
+vegetableness|sự; trạng thái rau củ
+vegetableable|có thể rau củ
+vegetablement|sự; việc rau củ
+vegetabletion|sự; việc rau củ
+vegetableations|các sự; việc rau củ
+vegetableist|người chuyên về rau củ
+vegetableists|những người chuyên về rau củ
+vegetableal|thuộc về rau củ
+vegetableous|có tính chất rau củ
+vegetableive|có tính chất rau củ
+vegetabley|có tính chất rau củ
+breakfasts|các; dạng số nhiều bữa sáng
+breakfasted|đã; dạng quá khứ bữa sáng
+breakfasting|đang; dạng tiếp diễn bữa sáng
+breakfaster|người thực hiện bữa sáng
+breakfasters|những người thực hiện bữa sáng
+breakfastful|đầy; có nhiều bữa sáng
+breakfastless|không có bữa sáng
+breakfastly|một cách bữa sáng
+breakfastness|sự; trạng thái bữa sáng
+breakfastable|có thể bữa sáng
+breakfastment|sự; việc bữa sáng
+breakfasttion|sự; việc bữa sáng
+breakfastations|các sự; việc bữa sáng
+breakfastist|người chuyên về bữa sáng
+breakfastists|những người chuyên về bữa sáng
+breakfastal|thuộc về bữa sáng
+breakfastous|có tính chất bữa sáng
+breakfastive|có tính chất bữa sáng
+breakfasty|có tính chất bữa sáng
+lunchs|các; dạng số nhiều bữa trưa
+lunched|đã; dạng quá khứ bữa trưa
+lunching|đang; dạng tiếp diễn bữa trưa
+luncher|người thực hiện bữa trưa
+lunchers|những người thực hiện bữa trưa
+lunchful|đầy; có nhiều bữa trưa
+lunchless|không có bữa trưa
+lunchly|một cách bữa trưa
+lunchness|sự; trạng thái bữa trưa
+lunchable|có thể bữa trưa
+lunchment|sự; việc bữa trưa
+lunchtion|sự; việc bữa trưa
+lunchations|các sự; việc bữa trưa
+lunchist|người chuyên về bữa trưa
+lunchists|những người chuyên về bữa trưa
+lunchal|thuộc về bữa trưa
+lunchous|có tính chất bữa trưa
+lunchive|có tính chất bữa trưa
+lunchy|có tính chất bữa trưa
+dinners|các; dạng số nhiều bữa tối
+dinnered|đã; dạng quá khứ bữa tối
+dinnering|đang; dạng tiếp diễn bữa tối
+dinnerer|người thực hiện bữa tối
+dinnerers|những người thực hiện bữa tối
+dinnerful|đầy; có nhiều bữa tối
+dinnerless|không có bữa tối
+dinnerly|một cách bữa tối
+dinnerness|sự; trạng thái bữa tối
+dinnerable|có thể bữa tối
+dinnerment|sự; việc bữa tối
+dinnertion|sự; việc bữa tối
+dinnerations|các sự; việc bữa tối
+dinnerist|người chuyên về bữa tối
+dinnerists|những người chuyên về bữa tối
+dinneral|thuộc về bữa tối
+dinnerous|có tính chất bữa tối
+dinnerive|có tính chất bữa tối
+dinnery|có tính chất bữa tối
+books|các; dạng số nhiều quyển sách
+booked|đã; dạng quá khứ quyển sách
+booking|đang; dạng tiếp diễn quyển sách
+booker|người thực hiện quyển sách
+bookers|những người thực hiện quyển sách
+bookful|đầy; có nhiều quyển sách
+bookless|không có quyển sách
+bookly|một cách quyển sách
+bookness|sự; trạng thái quyển sách
+bookable|có thể quyển sách
+bookment|sự; việc quyển sách
+booktion|sự; việc quyển sách
+bookations|các sự; việc quyển sách
+bookist|người chuyên về quyển sách
+bookists|những người chuyên về quyển sách
+bookal|thuộc về quyển sách
+bookous|có tính chất quyển sách
+bookive|có tính chất quyển sách
+booky|có tính chất quyển sách
+schools|các; dạng số nhiều trường học
+schooled|đã; dạng quá khứ trường học
+schooling|đang; dạng tiếp diễn trường học
+schooler|người thực hiện trường học
+schoolers|những người thực hiện trường học
+schoolful|đầy; có nhiều trường học
+schoolless|không có trường học
+schoolly|một cách trường học
+schoolness|sự; trạng thái trường học
+schoolable|có thể trường học
+schoolment|sự; việc trường học
+schooltion|sự; việc trường học
+schoolations|các sự; việc trường học
+schoolist|người chuyên về trường học
+schoolists|những người chuyên về trường học
+schoolal|thuộc về trường học
+schoolous|có tính chất trường học
+schoolive|có tính chất trường học
+schooly|có tính chất trường học
+students|các; dạng số nhiều học sinh; sinh viên
+studented|đã; dạng quá khứ học sinh; sinh viên
+studenting|đang; dạng tiếp diễn học sinh; sinh viên
+studenter|người thực hiện học sinh; sinh viên
+studenters|những người thực hiện học sinh; sinh viên
+studentful|đầy; có nhiều học sinh; sinh viên
+studentless|không có học sinh; sinh viên
+studently|một cách học sinh; sinh viên
+studentness|sự; trạng thái học sinh; sinh viên
+studentable|có thể học sinh; sinh viên
+studentment|sự; việc học sinh; sinh viên
+studenttion|sự; việc học sinh; sinh viên
+studentations|các sự; việc học sinh; sinh viên
+studentist|người chuyên về học sinh; sinh viên
+studentists|những người chuyên về học sinh; sinh viên
+studental|thuộc về học sinh; sinh viên
+studentous|có tính chất học sinh; sinh viên
+studentive|có tính chất học sinh; sinh viên
+studenty|có tính chất học sinh; sinh viên
+teachers|các; dạng số nhiều giáo viên
+teachered|đã; dạng quá khứ giáo viên
+teachering|đang; dạng tiếp diễn giáo viên
+teacherer|người thực hiện giáo viên
+teacherers|những người thực hiện giáo viên
+teacherful|đầy; có nhiều giáo viên
+teacherless|không có giáo viên
+teacherly|một cách giáo viên
+teacherness|sự; trạng thái giáo viên
+teacherable|có thể giáo viên
+teacherment|sự; việc giáo viên
+teachertion|sự; việc giáo viên
+teacherations|các sự; việc giáo viên
+teacherist|người chuyên về giáo viên
+teacherists|những người chuyên về giáo viên
+teacheral|thuộc về giáo viên
+teacherous|có tính chất giáo viên
+teacherive|có tính chất giáo viên
+teachery|có tính chất giáo viên
+learns|các; dạng số nhiều học
+learned|đã; dạng quá khứ học
+learning|đang; dạng tiếp diễn học
+learner|người thực hiện học
+learners|những người thực hiện học
+learnful|đầy; có nhiều học
+learnless|không có học
+learnly|một cách học
+learnness|sự; trạng thái học
+learnable|có thể học
+learnment|sự; việc học
+learntion|sự; việc học
+learnations|các sự; việc học
+learnist|người chuyên về học
+learnists|những người chuyên về học
+learnal|thuộc về học
+learnous|có tính chất học
+learnive|có tính chất học
+learny|có tính chất học
+studys|các; dạng số nhiều học; nghiên cứu
+studyed|đã; dạng quá khứ học; nghiên cứu
+studying|đang; dạng tiếp diễn học; nghiên cứu
+studyer|người thực hiện học; nghiên cứu
+studyers|những người thực hiện học; nghiên cứu
+studyful|đầy; có nhiều học; nghiên cứu
+studyless|không có học; nghiên cứu
+studyly|một cách học; nghiên cứu
+studyness|sự; trạng thái học; nghiên cứu
+studyable|có thể học; nghiên cứu
+studyment|sự; việc học; nghiên cứu
+studytion|sự; việc học; nghiên cứu
+studyations|các sự; việc học; nghiên cứu
+studyist|người chuyên về học; nghiên cứu
+studyists|những người chuyên về học; nghiên cứu
+studyal|thuộc về học; nghiên cứu
+studyous|có tính chất học; nghiên cứu
+studyive|có tính chất học; nghiên cứu
+studyy|có tính chất học; nghiên cứu
+reads|các; dạng số nhiều đọc
+readed|đã; dạng quá khứ đọc
+reading|đang; dạng tiếp diễn đọc
+reader|người thực hiện đọc
+readers|những người thực hiện đọc
+readful|đầy; có nhiều đọc
+readless|không có đọc
+readly|một cách đọc
+readness|sự; trạng thái đọc
+readable|có thể đọc
+readment|sự; việc đọc
+readtion|sự; việc đọc
+readations|các sự; việc đọc
+readist|người chuyên về đọc
+readists|những người chuyên về đọc
+readal|thuộc về đọc
+readous|có tính chất đọc
+readive|có tính chất đọc
+ready|có tính chất đọc
+writes|các; dạng số nhiều viết
+writeed|đã; dạng quá khứ viết
+writeing|đang; dạng tiếp diễn viết
+writeer|người thực hiện viết
+writeers|những người thực hiện viết
+writeful|đầy; có nhiều viết
+writeless|không có viết
+writely|một cách viết
+writeness|sự; trạng thái viết
+writeable|có thể viết
+writement|sự; việc viết
+writetion|sự; việc viết
+writeations|các sự; việc viết
+writeist|người chuyên về viết
+writeists|những người chuyên về viết
+writeal|thuộc về viết
+writeous|có tính chất viết
+writeive|có tính chất viết
+writey|có tính chất viết
+words|các; dạng số nhiều từ; từ vựng
+worded|đã; dạng quá khứ từ; từ vựng
+wording|đang; dạng tiếp diễn từ; từ vựng
+worder|người thực hiện từ; từ vựng
+worders|những người thực hiện từ; từ vựng
+wordful|đầy; có nhiều từ; từ vựng
+wordless|không có từ; từ vựng
+wordly|một cách từ; từ vựng
+wordness|sự; trạng thái từ; từ vựng
+wordable|có thể từ; từ vựng
+wordment|sự; việc từ; từ vựng
+wordtion|sự; việc từ; từ vựng
+wordations|các sự; việc từ; từ vựng
+wordist|người chuyên về từ; từ vựng
+wordists|những người chuyên về từ; từ vựng
+wordal|thuộc về từ; từ vựng
+wordous|có tính chất từ; từ vựng
+wordive|có tính chất từ; từ vựng
+wordy|có tính chất từ; từ vựng
+languages|các; dạng số nhiều ngôn ngữ
+languageed|đã; dạng quá khứ ngôn ngữ
+languageing|đang; dạng tiếp diễn ngôn ngữ
+languageer|người thực hiện ngôn ngữ
+languageers|những người thực hiện ngôn ngữ
+languageful|đầy; có nhiều ngôn ngữ
+languageless|không có ngôn ngữ
+languagely|một cách ngôn ngữ
+languageness|sự; trạng thái ngôn ngữ
+languageable|có thể ngôn ngữ
+languagement|sự; việc ngôn ngữ
+languagetion|sự; việc ngôn ngữ
+languageations|các sự; việc ngôn ngữ
+languageist|người chuyên về ngôn ngữ
+languageists|những người chuyên về ngôn ngữ
+languageal|thuộc về ngôn ngữ
+languageous|có tính chất ngôn ngữ
+languageive|có tính chất ngôn ngữ
+languagey|có tính chất ngôn ngữ
+questions|các; dạng số nhiều câu hỏi
+questioned|đã; dạng quá khứ câu hỏi
+questioning|đang; dạng tiếp diễn câu hỏi
+questioner|người thực hiện câu hỏi
+questioners|những người thực hiện câu hỏi
+questionful|đầy; có nhiều câu hỏi
+questionless|không có câu hỏi
+questionly|một cách câu hỏi
+questionness|sự; trạng thái câu hỏi
+questionable|có thể câu hỏi
+questionment|sự; việc câu hỏi
+questiontion|sự; việc câu hỏi
+questionations|các sự; việc câu hỏi
+questionist|người chuyên về câu hỏi
+questionists|những người chuyên về câu hỏi
+questional|thuộc về câu hỏi
+questionous|có tính chất câu hỏi
+questionive|có tính chất câu hỏi
+questiony|có tính chất câu hỏi
+answers|các; dạng số nhiều câu trả lời; trả lời
+answered|đã; dạng quá khứ câu trả lời; trả lời
+answering|đang; dạng tiếp diễn câu trả lời; trả lời
+answerer|người thực hiện câu trả lời; trả lời
+answerers|những người thực hiện câu trả lời; trả lời
+answerful|đầy; có nhiều câu trả lời; trả lời
+answerless|không có câu trả lời; trả lời
+answerly|một cách câu trả lời; trả lời
+answerness|sự; trạng thái câu trả lời; trả lời
+answerable|có thể câu trả lời; trả lời
+answerment|sự; việc câu trả lời; trả lời
+answertion|sự; việc câu trả lời; trả lời
+answerations|các sự; việc câu trả lời; trả lời
+answerist|người chuyên về câu trả lời; trả lời
+answerists|những người chuyên về câu trả lời; trả lời
+answeral|thuộc về câu trả lời; trả lời
+answerous|có tính chất câu trả lời; trả lời
+answerive|có tính chất câu trả lời; trả lời
+answery|có tính chất câu trả lời; trả lời
+exams|các; dạng số nhiều kỳ thi
+examed|đã; dạng quá khứ kỳ thi
+examing|đang; dạng tiếp diễn kỳ thi
+examer|người thực hiện kỳ thi
+examers|những người thực hiện kỳ thi
+examful|đầy; có nhiều kỳ thi
+examless|không có kỳ thi
+examly|một cách kỳ thi
+examness|sự; trạng thái kỳ thi
+examable|có thể kỳ thi
+examment|sự; việc kỳ thi
+examtion|sự; việc kỳ thi
+examations|các sự; việc kỳ thi
+examist|người chuyên về kỳ thi
+examists|những người chuyên về kỳ thi
+examal|thuộc về kỳ thi
+examous|có tính chất kỳ thi
+examive|có tính chất kỳ thi
+examy|có tính chất kỳ thi
+classs|các; dạng số nhiều lớp học
+classed|đã; dạng quá khứ lớp học
+classing|đang; dạng tiếp diễn lớp học
+classer|người thực hiện lớp học
+classers|những người thực hiện lớp học
+classful|đầy; có nhiều lớp học
+classless|không có lớp học
+classly|một cách lớp học
+classness|sự; trạng thái lớp học
+classable|có thể lớp học
+classment|sự; việc lớp học
+classtion|sự; việc lớp học
+classations|các sự; việc lớp học
+classist|người chuyên về lớp học
+classists|những người chuyên về lớp học
+classal|thuộc về lớp học
+classous|có tính chất lớp học
+classive|có tính chất lớp học
+classy|có tính chất lớp học
+lessons|các; dạng số nhiều bài học
+lessoned|đã; dạng quá khứ bài học
+lessoning|đang; dạng tiếp diễn bài học
+lessoner|người thực hiện bài học
+lessoners|những người thực hiện bài học
+lessonful|đầy; có nhiều bài học
+lessonless|không có bài học
+lessonly|một cách bài học
+lessonness|sự; trạng thái bài học
+lessonable|có thể bài học
+lessonment|sự; việc bài học
+lessontion|sự; việc bài học
+lessonations|các sự; việc bài học
+lessonist|người chuyên về bài học
+lessonists|những người chuyên về bài học
+lessonal|thuộc về bài học
+lessonous|có tính chất bài học
+lessonive|có tính chất bài học
+lessony|có tính chất bài học
+papers|các; dạng số nhiều giấy; bài viết
+papered|đã; dạng quá khứ giấy; bài viết
+papering|đang; dạng tiếp diễn giấy; bài viết
+paperer|người thực hiện giấy; bài viết
+paperers|những người thực hiện giấy; bài viết
+paperful|đầy; có nhiều giấy; bài viết
+paperless|không có giấy; bài viết
+paperly|một cách giấy; bài viết
+paperness|sự; trạng thái giấy; bài viết
+paperable|có thể giấy; bài viết
+paperment|sự; việc giấy; bài viết
+papertion|sự; việc giấy; bài viết
+paperations|các sự; việc giấy; bài viết
+paperist|người chuyên về giấy; bài viết
+paperists|những người chuyên về giấy; bài viết
+paperal|thuộc về giấy; bài viết
+paperous|có tính chất giấy; bài viết
+paperive|có tính chất giấy; bài viết
+papery|có tính chất giấy; bài viết
+pencils|các; dạng số nhiều bút chì
+penciled|đã; dạng quá khứ bút chì
+penciling|đang; dạng tiếp diễn bút chì
+penciler|người thực hiện bút chì
+pencilers|những người thực hiện bút chì
+pencilful|đầy; có nhiều bút chì
+pencilless|không có bút chì
+pencilly|một cách bút chì
+pencilness|sự; trạng thái bút chì
+pencilable|có thể bút chì
+pencilment|sự; việc bút chì
+penciltion|sự; việc bút chì
+pencilations|các sự; việc bút chì
+pencilist|người chuyên về bút chì
+pencilists|những người chuyên về bút chì
+pencilal|thuộc về bút chì
+pencilous|có tính chất bút chì
+pencilive|có tính chất bút chì
+pencily|có tính chất bút chì
+pens|các; dạng số nhiều bút mực
+pened|đã; dạng quá khứ bút mực
+pening|đang; dạng tiếp diễn bút mực
+pener|người thực hiện bút mực
+peners|những người thực hiện bút mực
+penful|đầy; có nhiều bút mực
+penless|không có bút mực
+penly|một cách bút mực
+penness|sự; trạng thái bút mực
+penable|có thể bút mực
+penment|sự; việc bút mực
+pention|sự; việc bút mực
+penations|các sự; việc bút mực
+penist|người chuyên về bút mực
+penists|những người chuyên về bút mực
+penal|thuộc về bút mực
+penous|có tính chất bút mực
+penive|có tính chất bút mực
+peny|có tính chất bút mực
+dictionarys|các; dạng số nhiều từ điển
+dictionaryed|đã; dạng quá khứ từ điển
+dictionarying|đang; dạng tiếp diễn từ điển
+dictionaryer|người thực hiện từ điển
+dictionaryers|những người thực hiện từ điển
+dictionaryful|đầy; có nhiều từ điển
+dictionaryless|không có từ điển
+dictionaryly|một cách từ điển
+dictionaryness|sự; trạng thái từ điển
+dictionaryable|có thể từ điển
+dictionaryment|sự; việc từ điển
+dictionarytion|sự; việc từ điển
+dictionaryations|các sự; việc từ điển
+dictionaryist|người chuyên về từ điển
+dictionaryists|những người chuyên về từ điển
+dictionaryal|thuộc về từ điển
+dictionaryous|có tính chất từ điển
+dictionaryive|có tính chất từ điển
+dictionaryy|có tính chất từ điển
+computers|các; dạng số nhiều máy tính
+computered|đã; dạng quá khứ máy tính
+computering|đang; dạng tiếp diễn máy tính
+computerer|người thực hiện máy tính
+computerers|những người thực hiện máy tính
+computerful|đầy; có nhiều máy tính
+computerless|không có máy tính
+computerly|một cách máy tính
+computerness|sự; trạng thái máy tính
+computerable|có thể máy tính
+computerment|sự; việc máy tính
+computertion|sự; việc máy tính
+computerations|các sự; việc máy tính
+computerist|người chuyên về máy tính
+computerists|những người chuyên về máy tính
+computeral|thuộc về máy tính
+computerous|có tính chất máy tính
+computerive|có tính chất máy tính
+computery|có tính chất máy tính
+phones|các; dạng số nhiều điện thoại
+phoneed|đã; dạng quá khứ điện thoại
+phoneing|đang; dạng tiếp diễn điện thoại
+phoneer|người thực hiện điện thoại
+phoneers|những người thực hiện điện thoại
+phoneful|đầy; có nhiều điện thoại
+phoneless|không có điện thoại
+phonely|một cách điện thoại
+phoneness|sự; trạng thái điện thoại
+phoneable|có thể điện thoại
+phonement|sự; việc điện thoại
+phonetion|sự; việc điện thoại
+phoneations|các sự; việc điện thoại
+phoneist|người chuyên về điện thoại
+phoneists|những người chuyên về điện thoại
+phoneal|thuộc về điện thoại
+phoneous|có tính chất điện thoại
+phoneive|có tính chất điện thoại
+phoney|có tính chất điện thoại
+internets|các; dạng số nhiều mạng Internet
+interneted|đã; dạng quá khứ mạng Internet
+interneting|đang; dạng tiếp diễn mạng Internet
+interneter|người thực hiện mạng Internet
+interneters|những người thực hiện mạng Internet
+internetful|đầy; có nhiều mạng Internet
+internetless|không có mạng Internet
+internetly|một cách mạng Internet
+internetness|sự; trạng thái mạng Internet
+internetable|có thể mạng Internet
+internetment|sự; việc mạng Internet
+internettion|sự; việc mạng Internet
+internetations|các sự; việc mạng Internet
+internetist|người chuyên về mạng Internet
+internetists|những người chuyên về mạng Internet
+internetal|thuộc về mạng Internet
+internetous|có tính chất mạng Internet
+internetive|có tính chất mạng Internet
+internety|có tính chất mạng Internet
+websites|các; dạng số nhiều trang web
+websiteed|đã; dạng quá khứ trang web
+websiteing|đang; dạng tiếp diễn trang web
+websiteer|người thực hiện trang web
+websiteers|những người thực hiện trang web
+websiteful|đầy; có nhiều trang web
+websiteless|không có trang web
+websitely|một cách trang web
+websiteness|sự; trạng thái trang web
+websiteable|có thể trang web
+websitement|sự; việc trang web
+websitetion|sự; việc trang web
+websiteations|các sự; việc trang web
+websiteist|người chuyên về trang web
+websiteists|những người chuyên về trang web
+websiteal|thuộc về trang web
+websiteous|có tính chất trang web
+websiteive|có tính chất trang web
+websitey|có tính chất trang web
+softwares|các; dạng số nhiều phần mềm
+softwareed|đã; dạng quá khứ phần mềm
+softwareing|đang; dạng tiếp diễn phần mềm
+softwareer|người thực hiện phần mềm
+softwareers|những người thực hiện phần mềm
+softwareful|đầy; có nhiều phần mềm
+softwareless|không có phần mềm
+softwarely|một cách phần mềm
+softwareness|sự; trạng thái phần mềm
+softwareable|có thể phần mềm
+softwarement|sự; việc phần mềm
+softwaretion|sự; việc phần mềm
+softwareations|các sự; việc phần mềm
+softwareist|người chuyên về phần mềm
+softwareists|những người chuyên về phần mềm
+softwareal|thuộc về phần mềm
+softwareous|có tính chất phần mềm
+softwareive|có tính chất phần mềm
+softwarey|có tính chất phần mềm
+hardwares|các; dạng số nhiều phần cứng
+hardwareed|đã; dạng quá khứ phần cứng
+hardwareing|đang; dạng tiếp diễn phần cứng
+hardwareer|người thực hiện phần cứng
+hardwareers|những người thực hiện phần cứng
+hardwareful|đầy; có nhiều phần cứng
+hardwareless|không có phần cứng
+hardwarely|một cách phần cứng
+hardwareness|sự; trạng thái phần cứng
+hardwareable|có thể phần cứng
+hardwarement|sự; việc phần cứng
+hardwaretion|sự; việc phần cứng
+hardwareations|các sự; việc phần cứng
+hardwareist|người chuyên về phần cứng
+hardwareists|những người chuyên về phần cứng
+hardwareal|thuộc về phần cứng
+hardwareous|có tính chất phần cứng
+hardwareive|có tính chất phần cứng
+hardwarey|có tính chất phần cứng
+datas|các; dạng số nhiều dữ liệu
+dataed|đã; dạng quá khứ dữ liệu
+dataing|đang; dạng tiếp diễn dữ liệu
+dataer|người thực hiện dữ liệu
+dataers|những người thực hiện dữ liệu
+dataful|đầy; có nhiều dữ liệu
+dataless|không có dữ liệu
+dataly|một cách dữ liệu
+dataness|sự; trạng thái dữ liệu
+dataable|có thể dữ liệu
+datament|sự; việc dữ liệu
+datation|sự; việc dữ liệu
+dataations|các sự; việc dữ liệu
+dataist|người chuyên về dữ liệu
+dataists|những người chuyên về dữ liệu
+dataal|thuộc về dữ liệu
+dataous|có tính chất dữ liệu
+dataive|có tính chất dữ liệu
+datay|có tính chất dữ liệu
+programs|các; dạng số nhiều chương trình
+programed|đã; dạng quá khứ chương trình
+programing|đang; dạng tiếp diễn chương trình
+programer|người thực hiện chương trình
+programers|những người thực hiện chương trình
+programful|đầy; có nhiều chương trình
+programless|không có chương trình
+programly|một cách chương trình
+programness|sự; trạng thái chương trình
+programable|có thể chương trình
+programment|sự; việc chương trình
+programtion|sự; việc chương trình
+programations|các sự; việc chương trình
+programist|người chuyên về chương trình
+programists|những người chuyên về chương trình
+programal|thuộc về chương trình
+programous|có tính chất chương trình
+programive|có tính chất chương trình
+programy|có tính chất chương trình
+codes|các; dạng số nhiều mã lập trình
+codeed|đã; dạng quá khứ mã lập trình
+codeing|đang; dạng tiếp diễn mã lập trình
+codeer|người thực hiện mã lập trình
+codeers|những người thực hiện mã lập trình
+codeful|đầy; có nhiều mã lập trình
+codeless|không có mã lập trình
+codely|một cách mã lập trình
+codeness|sự; trạng thái mã lập trình
+codeable|có thể mã lập trình
+codement|sự; việc mã lập trình
+codetion|sự; việc mã lập trình
+codeations|các sự; việc mã lập trình
+codeist|người chuyên về mã lập trình
+codeists|những người chuyên về mã lập trình
+codeal|thuộc về mã lập trình
+codeous|có tính chất mã lập trình
+codeive|có tính chất mã lập trình
+codey|có tính chất mã lập trình
+screens|các; dạng số nhiều màn hình
+screened|đã; dạng quá khứ màn hình
+screening|đang; dạng tiếp diễn màn hình
+screener|người thực hiện màn hình
+screeners|những người thực hiện màn hình
+screenful|đầy; có nhiều màn hình
+screenless|không có màn hình
+screenly|một cách màn hình
+screenness|sự; trạng thái màn hình
+screenable|có thể màn hình
+screenment|sự; việc màn hình
+screention|sự; việc màn hình
+screenations|các sự; việc màn hình
+screenist|người chuyên về màn hình
+screenists|những người chuyên về màn hình
+screenal|thuộc về màn hình
+screenous|có tính chất màn hình
+screenive|có tính chất màn hình
+screeny|có tính chất màn hình
+keyboards|các; dạng số nhiều bàn phím
+keyboarded|đã; dạng quá khứ bàn phím
+keyboarding|đang; dạng tiếp diễn bàn phím
+keyboarder|người thực hiện bàn phím
+keyboarders|những người thực hiện bàn phím
+keyboardful|đầy; có nhiều bàn phím
+keyboardless|không có bàn phím
+keyboardly|một cách bàn phím
+keyboardness|sự; trạng thái bàn phím
+keyboardable|có thể bàn phím
+keyboardment|sự; việc bàn phím
+keyboardtion|sự; việc bàn phím
+keyboardations|các sự; việc bàn phím
+keyboardist|người chuyên về bàn phím
+keyboardists|những người chuyên về bàn phím
+keyboardal|thuộc về bàn phím
+keyboardous|có tính chất bàn phím
+keyboardive|có tính chất bàn phím
+keyboardy|có tính chất bàn phím
+mouses|các; dạng số nhiều chuột máy tính; con chuột
+mouseed|đã; dạng quá khứ chuột máy tính; con chuột
+mouseing|đang; dạng tiếp diễn chuột máy tính; con chuột
+mouseer|người thực hiện chuột máy tính; con chuột
+mouseers|những người thực hiện chuột máy tính; con chuột
+mouseful|đầy; có nhiều chuột máy tính; con chuột
+mouseless|không có chuột máy tính; con chuột
+mousely|một cách chuột máy tính; con chuột
+mouseness|sự; trạng thái chuột máy tính; con chuột
+mouseable|có thể chuột máy tính; con chuột
+mousement|sự; việc chuột máy tính; con chuột
+mousetion|sự; việc chuột máy tính; con chuột
+mouseations|các sự; việc chuột máy tính; con chuột
+mouseist|người chuyên về chuột máy tính; con chuột
+mouseists|những người chuyên về chuột máy tính; con chuột
+mouseal|thuộc về chuột máy tính; con chuột
+mouseous|có tính chất chuột máy tính; con chuột
+mouseive|có tính chất chuột máy tính; con chuột
+mousey|có tính chất chuột máy tính; con chuột
+files|các; dạng số nhiều tệp tin
+fileed|đã; dạng quá khứ tệp tin
+fileing|đang; dạng tiếp diễn tệp tin
+fileer|người thực hiện tệp tin
+fileers|những người thực hiện tệp tin
+fileful|đầy; có nhiều tệp tin
+fileless|không có tệp tin
+filely|một cách tệp tin
+fileness|sự; trạng thái tệp tin
+fileable|có thể tệp tin
+filement|sự; việc tệp tin
+filetion|sự; việc tệp tin
+fileations|các sự; việc tệp tin
+fileist|người chuyên về tệp tin
+fileists|những người chuyên về tệp tin
+fileal|thuộc về tệp tin
+fileous|có tính chất tệp tin
+fileive|có tính chất tệp tin
+filey|có tính chất tệp tin
+networks|các; dạng số nhiều mạng
+networked|đã; dạng quá khứ mạng
+networking|đang; dạng tiếp diễn mạng
+networker|người thực hiện mạng
+networkers|những người thực hiện mạng
+networkful|đầy; có nhiều mạng
+networkless|không có mạng
+networkly|một cách mạng
+networkness|sự; trạng thái mạng
+networkable|có thể mạng
+networkment|sự; việc mạng
+networktion|sự; việc mạng
+networkations|các sự; việc mạng
+networkist|người chuyên về mạng
+networkists|những người chuyên về mạng
+networkal|thuộc về mạng
+networkous|có tính chất mạng
+networkive|có tính chất mạng
+networky|có tính chất mạng
+cars|các; dạng số nhiều xe ô tô
+cared|đã; dạng quá khứ xe ô tô
+caring|đang; dạng tiếp diễn xe ô tô
+carer|người thực hiện xe ô tô
+carers|những người thực hiện xe ô tô
+carful|đầy; có nhiều xe ô tô
+carless|không có xe ô tô
+carly|một cách xe ô tô
+carness|sự; trạng thái xe ô tô
+carable|có thể xe ô tô
+carment|sự; việc xe ô tô
+cartion|sự; việc xe ô tô
+carations|các sự; việc xe ô tô
+carist|người chuyên về xe ô tô
+carists|những người chuyên về xe ô tô
+caral|thuộc về xe ô tô
+carous|có tính chất xe ô tô
+carive|có tính chất xe ô tô
+cary|có tính chất xe ô tô
+buss|các; dạng số nhiều xe buýt
+bused|đã; dạng quá khứ xe buýt
+busing|đang; dạng tiếp diễn xe buýt
+buser|người thực hiện xe buýt
+busers|những người thực hiện xe buýt
+busful|đầy; có nhiều xe buýt
+busless|không có xe buýt
+busly|một cách xe buýt
+busness|sự; trạng thái xe buýt
+busable|có thể xe buýt
+busment|sự; việc xe buýt
+bustion|sự; việc xe buýt
+busations|các sự; việc xe buýt
+busist|người chuyên về xe buýt
+busists|những người chuyên về xe buýt
+busal|thuộc về xe buýt
+busous|có tính chất xe buýt
+busive|có tính chất xe buýt
+busy|có tính chất xe buýt
+trains|các; dạng số nhiều tàu hỏa
+trained|đã; dạng quá khứ tàu hỏa
+training|đang; dạng tiếp diễn tàu hỏa
+trainer|người thực hiện tàu hỏa
+trainers|những người thực hiện tàu hỏa
+trainful|đầy; có nhiều tàu hỏa
+trainless|không có tàu hỏa
+trainly|một cách tàu hỏa
+trainness|sự; trạng thái tàu hỏa
+trainable|có thể tàu hỏa
+trainment|sự; việc tàu hỏa
+traintion|sự; việc tàu hỏa
+trainations|các sự; việc tàu hỏa
+trainist|người chuyên về tàu hỏa
+trainists|những người chuyên về tàu hỏa
+trainal|thuộc về tàu hỏa
+trainous|có tính chất tàu hỏa
+trainive|có tính chất tàu hỏa
+trainy|có tính chất tàu hỏa
+planes|các; dạng số nhiều máy bay
+planeed|đã; dạng quá khứ máy bay
+planeing|đang; dạng tiếp diễn máy bay
+planeer|người thực hiện máy bay
+planeers|những người thực hiện máy bay
+planeful|đầy; có nhiều máy bay
+planeless|không có máy bay
+planely|một cách máy bay
+planeness|sự; trạng thái máy bay
+planeable|có thể máy bay
+planement|sự; việc máy bay
+planetion|sự; việc máy bay
+planeations|các sự; việc máy bay
+planeist|người chuyên về máy bay
+planeists|những người chuyên về máy bay
+planeal|thuộc về máy bay
+planeous|có tính chất máy bay
+planeive|có tính chất máy bay
+planey|có tính chất máy bay
+airports|các; dạng số nhiều sân bay
+airported|đã; dạng quá khứ sân bay
+airporting|đang; dạng tiếp diễn sân bay
+airporter|người thực hiện sân bay
+airporters|những người thực hiện sân bay
+airportful|đầy; có nhiều sân bay
+airportless|không có sân bay
+airportly|một cách sân bay
+airportness|sự; trạng thái sân bay
+airportable|có thể sân bay
+airportment|sự; việc sân bay
+airporttion|sự; việc sân bay
+airportations|các sự; việc sân bay
+airportist|người chuyên về sân bay
+airportists|những người chuyên về sân bay
+airportal|thuộc về sân bay
+airportous|có tính chất sân bay
+airportive|có tính chất sân bay
+airporty|có tính chất sân bay
+stations|các; dạng số nhiều nhà ga; trạm
+stationed|đã; dạng quá khứ nhà ga; trạm
+stationing|đang; dạng tiếp diễn nhà ga; trạm
+stationer|người thực hiện nhà ga; trạm
+stationers|những người thực hiện nhà ga; trạm
+stationful|đầy; có nhiều nhà ga; trạm
+stationless|không có nhà ga; trạm
+stationly|một cách nhà ga; trạm
+stationness|sự; trạng thái nhà ga; trạm
+stationable|có thể nhà ga; trạm
+stationment|sự; việc nhà ga; trạm
+stationtion|sự; việc nhà ga; trạm
+stationations|các sự; việc nhà ga; trạm
+stationist|người chuyên về nhà ga; trạm
+stationists|những người chuyên về nhà ga; trạm
+stational|thuộc về nhà ga; trạm
+stationous|có tính chất nhà ga; trạm
+stationive|có tính chất nhà ga; trạm
+stationy|có tính chất nhà ga; trạm
+hotels|các; dạng số nhiều khách sạn
+hoteled|đã; dạng quá khứ khách sạn
+hoteling|đang; dạng tiếp diễn khách sạn
+hoteler|người thực hiện khách sạn
+hotelers|những người thực hiện khách sạn
+hotelful|đầy; có nhiều khách sạn
+hotelless|không có khách sạn
+hotelly|một cách khách sạn
+hotelness|sự; trạng thái khách sạn
+hotelable|có thể khách sạn
+hotelment|sự; việc khách sạn
+hoteltion|sự; việc khách sạn
+hotelations|các sự; việc khách sạn
+hotelist|người chuyên về khách sạn
+hotelists|những người chuyên về khách sạn
+hotelal|thuộc về khách sạn
+hotelous|có tính chất khách sạn
+hotelive|có tính chất khách sạn
+hotely|có tính chất khách sạn
+travels|các; dạng số nhiều du lịch; đi lại
+traveled|đã; dạng quá khứ du lịch; đi lại
+traveling|đang; dạng tiếp diễn du lịch; đi lại
+traveler|người thực hiện du lịch; đi lại
+travelers|những người thực hiện du lịch; đi lại
+travelful|đầy; có nhiều du lịch; đi lại
+travelless|không có du lịch; đi lại
+travelly|một cách du lịch; đi lại
+travelness|sự; trạng thái du lịch; đi lại
+travelable|có thể du lịch; đi lại
+travelment|sự; việc du lịch; đi lại
+traveltion|sự; việc du lịch; đi lại
+travelations|các sự; việc du lịch; đi lại
+travelist|người chuyên về du lịch; đi lại
+travelists|những người chuyên về du lịch; đi lại
+travelal|thuộc về du lịch; đi lại
+travelous|có tính chất du lịch; đi lại
+travelive|có tính chất du lịch; đi lại
+travely|có tính chất du lịch; đi lại
+tickets|các; dạng số nhiều vé
+ticketed|đã; dạng quá khứ vé
+ticketing|đang; dạng tiếp diễn vé
+ticketer|người thực hiện vé
+ticketers|những người thực hiện vé
+ticketful|đầy; có nhiều vé
+ticketless|không có vé
+ticketly|một cách vé
+ticketness|sự; trạng thái vé
+ticketable|có thể vé
+ticketment|sự; việc vé
+tickettion|sự; việc vé
+ticketations|các sự; việc vé
+ticketist|người chuyên về vé
+ticketists|những người chuyên về vé
+ticketal|thuộc về vé
+ticketous|có tính chất vé
+ticketive|có tính chất vé
+tickety|có tính chất vé
+maps|các; dạng số nhiều bản đồ
+maped|đã; dạng quá khứ bản đồ
+maping|đang; dạng tiếp diễn bản đồ
+maper|người thực hiện bản đồ
+mapers|những người thực hiện bản đồ
+mapful|đầy; có nhiều bản đồ
+mapless|không có bản đồ
+maply|một cách bản đồ
+mapness|sự; trạng thái bản đồ
+mapable|có thể bản đồ
+mapment|sự; việc bản đồ
+maption|sự; việc bản đồ
+mapations|các sự; việc bản đồ
+mapist|người chuyên về bản đồ
+mapists|những người chuyên về bản đồ
+mapal|thuộc về bản đồ
+mapous|có tính chất bản đồ
+mapive|có tính chất bản đồ
+mapy|có tính chất bản đồ
+roads|các; dạng số nhiều con đường
+roaded|đã; dạng quá khứ con đường
+roading|đang; dạng tiếp diễn con đường
+roader|người thực hiện con đường
+roaders|những người thực hiện con đường
+roadful|đầy; có nhiều con đường
+roadless|không có con đường
+roadly|một cách con đường
+roadness|sự; trạng thái con đường
+roadable|có thể con đường
+roadment|sự; việc con đường
+roadtion|sự; việc con đường
+roadations|các sự; việc con đường
+roadist|người chuyên về con đường
+roadists|những người chuyên về con đường
+roadal|thuộc về con đường
+roadous|có tính chất con đường
+roadive|có tính chất con đường
+roady|có tính chất con đường
+streets|các; dạng số nhiều đường phố
+streeted|đã; dạng quá khứ đường phố
+streeting|đang; dạng tiếp diễn đường phố
+streeter|người thực hiện đường phố
+streeters|những người thực hiện đường phố
+streetful|đầy; có nhiều đường phố
+streetless|không có đường phố
+streetly|một cách đường phố
+streetness|sự; trạng thái đường phố
+streetable|có thể đường phố
+streetment|sự; việc đường phố
+streettion|sự; việc đường phố
+streetations|các sự; việc đường phố
+streetist|người chuyên về đường phố
+streetists|những người chuyên về đường phố
+streetal|thuộc về đường phố
+streetous|có tính chất đường phố
+streetive|có tính chất đường phố
+streety|có tính chất đường phố
+citys|các; dạng số nhiều thành phố
+cityed|đã; dạng quá khứ thành phố
+citying|đang; dạng tiếp diễn thành phố
+cityer|người thực hiện thành phố
+cityers|những người thực hiện thành phố
+cityful|đầy; có nhiều thành phố
+cityless|không có thành phố
+cityly|một cách thành phố
+cityness|sự; trạng thái thành phố
+cityable|có thể thành phố
+cityment|sự; việc thành phố
+citytion|sự; việc thành phố
+cityations|các sự; việc thành phố
+cityist|người chuyên về thành phố
+cityists|những người chuyên về thành phố
+cityal|thuộc về thành phố
+cityous|có tính chất thành phố
+cityive|có tính chất thành phố
+cityy|có tính chất thành phố
+countrys|các; dạng số nhiều quốc gia; nông thôn
+countryed|đã; dạng quá khứ quốc gia; nông thôn
+countrying|đang; dạng tiếp diễn quốc gia; nông thôn
+countryer|người thực hiện quốc gia; nông thôn
+countryers|những người thực hiện quốc gia; nông thôn
+countryful|đầy; có nhiều quốc gia; nông thôn
+countryless|không có quốc gia; nông thôn
+countryly|một cách quốc gia; nông thôn
+countryness|sự; trạng thái quốc gia; nông thôn
+countryable|có thể quốc gia; nông thôn
+countryment|sự; việc quốc gia; nông thôn
+countrytion|sự; việc quốc gia; nông thôn
+countryations|các sự; việc quốc gia; nông thôn
+countryist|người chuyên về quốc gia; nông thôn
+countryists|những người chuyên về quốc gia; nông thôn
+countryal|thuộc về quốc gia; nông thôn
+countryous|có tính chất quốc gia; nông thôn
+countryive|có tính chất quốc gia; nông thôn
+countryy|có tính chất quốc gia; nông thôn
+beachs|các; dạng số nhiều bãi biển
+beached|đã; dạng quá khứ bãi biển
+beaching|đang; dạng tiếp diễn bãi biển
+beacher|người thực hiện bãi biển
+beachers|những người thực hiện bãi biển
+beachful|đầy; có nhiều bãi biển
+beachless|không có bãi biển
+beachly|một cách bãi biển
+beachness|sự; trạng thái bãi biển
+beachable|có thể bãi biển
+beachment|sự; việc bãi biển
+beachtion|sự; việc bãi biển
+beachations|các sự; việc bãi biển
+beachist|người chuyên về bãi biển
+beachists|những người chuyên về bãi biển
+beachal|thuộc về bãi biển
+beachous|có tính chất bãi biển
+beachive|có tính chất bãi biển
+beachy|có tính chất bãi biển
+mountains|các; dạng số nhiều núi
+mountained|đã; dạng quá khứ núi
+mountaining|đang; dạng tiếp diễn núi
+mountainer|người thực hiện núi
+mountainers|những người thực hiện núi
+mountainful|đầy; có nhiều núi
+mountainless|không có núi
+mountainly|một cách núi
+mountainness|sự; trạng thái núi
+mountainable|có thể núi
+mountainment|sự; việc núi
+mountaintion|sự; việc núi
+mountainations|các sự; việc núi
+mountainist|người chuyên về núi
+mountainists|những người chuyên về núi
+mountainal|thuộc về núi
+mountainous|có tính chất núi
+mountainive|có tính chất núi
+mountainy|có tính chất núi
+rivers|các; dạng số nhiều sông
+rivered|đã; dạng quá khứ sông
+rivering|đang; dạng tiếp diễn sông
+riverer|người thực hiện sông
+riverers|những người thực hiện sông
+riverful|đầy; có nhiều sông
+riverless|không có sông
+riverly|một cách sông
+riverness|sự; trạng thái sông
+riverable|có thể sông
+riverment|sự; việc sông
+rivertion|sự; việc sông
+riverations|các sự; việc sông
+riverist|người chuyên về sông
+riverists|những người chuyên về sông
+riveral|thuộc về sông
+riverous|có tính chất sông
+riverive|có tính chất sông
+rivery|có tính chất sông
+parks|các; dạng số nhiều công viên
+parked|đã; dạng quá khứ công viên
+parking|đang; dạng tiếp diễn công viên
+parker|người thực hiện công viên
+parkers|những người thực hiện công viên
+parkful|đầy; có nhiều công viên
+parkless|không có công viên
+parkly|một cách công viên
+parkness|sự; trạng thái công viên
+parkable|có thể công viên
+parkment|sự; việc công viên
+parktion|sự; việc công viên
+parkations|các sự; việc công viên
+parkist|người chuyên về công viên
+parkists|những người chuyên về công viên
+parkal|thuộc về công viên
+parkous|có tính chất công viên
+parkive|có tính chất công viên
+parky|có tính chất công viên
+rooms|các; dạng số nhiều phòng
+roomed|đã; dạng quá khứ phòng
+rooming|đang; dạng tiếp diễn phòng
+roomer|người thực hiện phòng
+roomers|những người thực hiện phòng
+roomful|đầy; có nhiều phòng
+roomless|không có phòng
+roomly|một cách phòng
+roomness|sự; trạng thái phòng
+roomable|có thể phòng
+roomment|sự; việc phòng
+roomtion|sự; việc phòng
+roomations|các sự; việc phòng
+roomist|người chuyên về phòng
+roomists|những người chuyên về phòng
+roomal|thuộc về phòng
+roomous|có tính chất phòng
+roomive|có tính chất phòng
+roomy|có tính chất phòng
+passports|các; dạng số nhiều hộ chiếu
+passported|đã; dạng quá khứ hộ chiếu
+passporting|đang; dạng tiếp diễn hộ chiếu
+passporter|người thực hiện hộ chiếu
+passporters|những người thực hiện hộ chiếu
+passportful|đầy; có nhiều hộ chiếu
+passportless|không có hộ chiếu
+passportly|một cách hộ chiếu
+passportness|sự; trạng thái hộ chiếu
+passportable|có thể hộ chiếu
+passportment|sự; việc hộ chiếu
+passporttion|sự; việc hộ chiếu
+passportations|các sự; việc hộ chiếu
+passportist|người chuyên về hộ chiếu
+passportists|những người chuyên về hộ chiếu
+passportal|thuộc về hộ chiếu
+passportous|có tính chất hộ chiếu
+passportive|có tính chất hộ chiếu
+passporty|có tính chất hộ chiếu
+works|các; dạng số nhiều làm việc; công việc
+worked|đã; dạng quá khứ làm việc; công việc
+working|đang; dạng tiếp diễn làm việc; công việc
+worker|người thực hiện làm việc; công việc
+workers|những người thực hiện làm việc; công việc
+workful|đầy; có nhiều làm việc; công việc
+workless|không có làm việc; công việc
+workly|một cách làm việc; công việc
+workness|sự; trạng thái làm việc; công việc
+workable|có thể làm việc; công việc
+workment|sự; việc làm việc; công việc
+worktion|sự; việc làm việc; công việc
+workations|các sự; việc làm việc; công việc
+workist|người chuyên về làm việc; công việc
+workists|những người chuyên về làm việc; công việc
+workal|thuộc về làm việc; công việc
+workous|có tính chất làm việc; công việc
+workive|có tính chất làm việc; công việc
+worky|có tính chất làm việc; công việc
+jobs|các; dạng số nhiều công việc
+jobed|đã; dạng quá khứ công việc
+jobing|đang; dạng tiếp diễn công việc
+jober|người thực hiện công việc
+jobers|những người thực hiện công việc
+jobful|đầy; có nhiều công việc
+jobless|không có công việc
+jobly|một cách công việc
+jobness|sự; trạng thái công việc
+jobable|có thể công việc
+jobment|sự; việc công việc
+jobtion|sự; việc công việc
+jobations|các sự; việc công việc
+jobist|người chuyên về công việc
+jobists|những người chuyên về công việc
+jobal|thuộc về công việc
+jobous|có tính chất công việc
+jobive|có tính chất công việc
+joby|có tính chất công việc
+offices|các; dạng số nhiều văn phòng
+officeed|đã; dạng quá khứ văn phòng
+officeing|đang; dạng tiếp diễn văn phòng
+officeer|người thực hiện văn phòng
+officeers|những người thực hiện văn phòng
+officeful|đầy; có nhiều văn phòng
+officeless|không có văn phòng
+officely|một cách văn phòng
+officeness|sự; trạng thái văn phòng
+officeable|có thể văn phòng
+officement|sự; việc văn phòng
+officetion|sự; việc văn phòng
+officeations|các sự; việc văn phòng
+officeist|người chuyên về văn phòng
+officeists|những người chuyên về văn phòng
+officeal|thuộc về văn phòng
+officeous|có tính chất văn phòng
+officeive|có tính chất văn phòng
+officey|có tính chất văn phòng
+companys|các; dạng số nhiều công ty
+companyed|đã; dạng quá khứ công ty
+companying|đang; dạng tiếp diễn công ty
+companyer|người thực hiện công ty
+companyers|những người thực hiện công ty
+companyful|đầy; có nhiều công ty
+companyless|không có công ty
+companyly|một cách công ty
+companyness|sự; trạng thái công ty
+companyable|có thể công ty
+companyment|sự; việc công ty
+companytion|sự; việc công ty
+companyations|các sự; việc công ty
+companyist|người chuyên về công ty
+companyists|những người chuyên về công ty
+companyal|thuộc về công ty
+companyous|có tính chất công ty
+companyive|có tính chất công ty
+companyy|có tính chất công ty
+businesss|các; dạng số nhiều kinh doanh; doanh nghiệp
+businessed|đã; dạng quá khứ kinh doanh; doanh nghiệp
+businessing|đang; dạng tiếp diễn kinh doanh; doanh nghiệp
+businesser|người thực hiện kinh doanh; doanh nghiệp
+businessers|những người thực hiện kinh doanh; doanh nghiệp
+businessful|đầy; có nhiều kinh doanh; doanh nghiệp
+businessless|không có kinh doanh; doanh nghiệp
+businessly|một cách kinh doanh; doanh nghiệp
+businessness|sự; trạng thái kinh doanh; doanh nghiệp
+businessable|có thể kinh doanh; doanh nghiệp
+businessment|sự; việc kinh doanh; doanh nghiệp
+businesstion|sự; việc kinh doanh; doanh nghiệp
+businessations|các sự; việc kinh doanh; doanh nghiệp
+businessist|người chuyên về kinh doanh; doanh nghiệp
+businessists|những người chuyên về kinh doanh; doanh nghiệp
+businessal|thuộc về kinh doanh; doanh nghiệp
+businessous|có tính chất kinh doanh; doanh nghiệp
+businessive|có tính chất kinh doanh; doanh nghiệp
+businessy|có tính chất kinh doanh; doanh nghiệp
+managers|các; dạng số nhiều người quản lý
+managered|đã; dạng quá khứ người quản lý
+managering|đang; dạng tiếp diễn người quản lý
+managerer|người thực hiện người quản lý
+managerers|những người thực hiện người quản lý
+managerful|đầy; có nhiều người quản lý
+managerless|không có người quản lý
+managerly|một cách người quản lý
+managerness|sự; trạng thái người quản lý
+managerable|có thể người quản lý
+managerment|sự; việc người quản lý
+managertion|sự; việc người quản lý
+managerations|các sự; việc người quản lý
+managerist|người chuyên về người quản lý
+managerists|những người chuyên về người quản lý
+manageral|thuộc về người quản lý
+managerous|có tính chất người quản lý
+managerive|có tính chất người quản lý
+managery|có tính chất người quản lý
+meetings|các; dạng số nhiều cuộc họp
+meetinged|đã; dạng quá khứ cuộc họp
+meetinging|đang; dạng tiếp diễn cuộc họp
+meetinger|người thực hiện cuộc họp
+meetingers|những người thực hiện cuộc họp
+meetingful|đầy; có nhiều cuộc họp
+meetingless|không có cuộc họp
+meetingly|một cách cuộc họp
+meetingness|sự; trạng thái cuộc họp
+meetingable|có thể cuộc họp
+meetingment|sự; việc cuộc họp
+meetingtion|sự; việc cuộc họp
+meetingations|các sự; việc cuộc họp
+meetingist|người chuyên về cuộc họp
+meetingists|những người chuyên về cuộc họp
+meetingal|thuộc về cuộc họp
+meetingous|có tính chất cuộc họp
+meetingive|có tính chất cuộc họp
+meetingy|có tính chất cuộc họp
+moneys|các; dạng số nhiều tiền
+moneyed|đã; dạng quá khứ tiền
+moneying|đang; dạng tiếp diễn tiền
+moneyer|người thực hiện tiền
+moneyers|những người thực hiện tiền
+moneyful|đầy; có nhiều tiền
+moneyless|không có tiền
+moneyly|một cách tiền
+moneyness|sự; trạng thái tiền
+moneyable|có thể tiền
+moneyment|sự; việc tiền
+moneytion|sự; việc tiền
+moneyations|các sự; việc tiền
+moneyist|người chuyên về tiền
+moneyists|những người chuyên về tiền
+moneyal|thuộc về tiền
+moneyous|có tính chất tiền
+moneyive|có tính chất tiền
+moneyy|có tính chất tiền
+prices|các; dạng số nhiều giá cả
+priceed|đã; dạng quá khứ giá cả
+priceing|đang; dạng tiếp diễn giá cả
+priceer|người thực hiện giá cả
+priceers|những người thực hiện giá cả
+priceful|đầy; có nhiều giá cả
+priceless|không có giá cả
+pricely|một cách giá cả
+priceness|sự; trạng thái giá cả
+priceable|có thể giá cả
+pricement|sự; việc giá cả
+pricetion|sự; việc giá cả
+priceations|các sự; việc giá cả
+priceist|người chuyên về giá cả
+priceists|những người chuyên về giá cả
+priceal|thuộc về giá cả
+priceous|có tính chất giá cả
+priceive|có tính chất giá cả
+pricey|có tính chất giá cả
+pays|các; dạng số nhiều trả tiền; thanh toán
+payed|đã; dạng quá khứ trả tiền; thanh toán
+paying|đang; dạng tiếp diễn trả tiền; thanh toán
+payer|người thực hiện trả tiền; thanh toán
+payers|những người thực hiện trả tiền; thanh toán
+payful|đầy; có nhiều trả tiền; thanh toán
+payless|không có trả tiền; thanh toán
+payly|một cách trả tiền; thanh toán
+payness|sự; trạng thái trả tiền; thanh toán
+payable|có thể trả tiền; thanh toán
+payment|sự; việc trả tiền; thanh toán
+paytion|sự; việc trả tiền; thanh toán
+payations|các sự; việc trả tiền; thanh toán
+payist|người chuyên về trả tiền; thanh toán
+payists|những người chuyên về trả tiền; thanh toán
+payal|thuộc về trả tiền; thanh toán
+payous|có tính chất trả tiền; thanh toán
+payive|có tính chất trả tiền; thanh toán
+payy|có tính chất trả tiền; thanh toán
+buys|các; dạng số nhiều mua
+buyed|đã; dạng quá khứ mua
+buying|đang; dạng tiếp diễn mua
+buyer|người thực hiện mua
+buyers|những người thực hiện mua
+buyful|đầy; có nhiều mua
+buyless|không có mua
+buyly|một cách mua
+buyness|sự; trạng thái mua
+buyable|có thể mua
+buyment|sự; việc mua
+buytion|sự; việc mua
+buyations|các sự; việc mua
+buyist|người chuyên về mua
+buyists|những người chuyên về mua
+buyal|thuộc về mua
+buyous|có tính chất mua
+buyive|có tính chất mua
+buyy|có tính chất mua
+sells|các; dạng số nhiều bán
+selled|đã; dạng quá khứ bán
+selling|đang; dạng tiếp diễn bán
+seller|người thực hiện bán
+sellers|những người thực hiện bán
+sellful|đầy; có nhiều bán
+sellless|không có bán
+sellly|một cách bán
+sellness|sự; trạng thái bán
+sellable|có thể bán
+sellment|sự; việc bán
+selltion|sự; việc bán
+sellations|các sự; việc bán
+sellist|người chuyên về bán
+sellists|những người chuyên về bán
+sellal|thuộc về bán
+sellous|có tính chất bán
+sellive|có tính chất bán
+selly|có tính chất bán
+customers|các; dạng số nhiều khách hàng
+customered|đã; dạng quá khứ khách hàng
+customering|đang; dạng tiếp diễn khách hàng
+customerer|người thực hiện khách hàng
+customerers|những người thực hiện khách hàng
+customerful|đầy; có nhiều khách hàng
+customerless|không có khách hàng
+customerly|một cách khách hàng
+customerness|sự; trạng thái khách hàng
+customerable|có thể khách hàng
+customerment|sự; việc khách hàng
+customertion|sự; việc khách hàng
+customerations|các sự; việc khách hàng
+customerist|người chuyên về khách hàng
+customerists|những người chuyên về khách hàng
+customeral|thuộc về khách hàng
+customerous|có tính chất khách hàng
+customerive|có tính chất khách hàng
+customery|có tính chất khách hàng
+services|các; dạng số nhiều dịch vụ
+serviceed|đã; dạng quá khứ dịch vụ
+serviceing|đang; dạng tiếp diễn dịch vụ
+serviceer|người thực hiện dịch vụ
+serviceers|những người thực hiện dịch vụ
+serviceful|đầy; có nhiều dịch vụ
+serviceless|không có dịch vụ
+servicely|một cách dịch vụ
+serviceness|sự; trạng thái dịch vụ
+serviceable|có thể dịch vụ
+servicement|sự; việc dịch vụ
+servicetion|sự; việc dịch vụ
+serviceations|các sự; việc dịch vụ
+serviceist|người chuyên về dịch vụ
+serviceists|những người chuyên về dịch vụ
+serviceal|thuộc về dịch vụ
+serviceous|có tính chất dịch vụ
+serviceive|có tính chất dịch vụ
+servicey|có tính chất dịch vụ
+teams|các; dạng số nhiều đội; nhóm
+teamed|đã; dạng quá khứ đội; nhóm
+teaming|đang; dạng tiếp diễn đội; nhóm
+teamer|người thực hiện đội; nhóm
+teamers|những người thực hiện đội; nhóm
+teamful|đầy; có nhiều đội; nhóm
+teamless|không có đội; nhóm
+teamly|một cách đội; nhóm
+teamness|sự; trạng thái đội; nhóm
+teamable|có thể đội; nhóm
+teamment|sự; việc đội; nhóm
+teamtion|sự; việc đội; nhóm
+teamations|các sự; việc đội; nhóm
+teamist|người chuyên về đội; nhóm
+teamists|những người chuyên về đội; nhóm
+teamal|thuộc về đội; nhóm
+teamous|có tính chất đội; nhóm
+teamive|có tính chất đội; nhóm
+teamy|có tính chất đội; nhóm
+reports|các; dạng số nhiều báo cáo
+reported|đã; dạng quá khứ báo cáo
+reporting|đang; dạng tiếp diễn báo cáo
+reporter|người thực hiện báo cáo
+reporters|những người thực hiện báo cáo
+reportful|đầy; có nhiều báo cáo
+reportless|không có báo cáo
+reportly|một cách báo cáo
+reportness|sự; trạng thái báo cáo
+reportable|có thể báo cáo
+reportment|sự; việc báo cáo
+reporttion|sự; việc báo cáo
+reportations|các sự; việc báo cáo
+reportist|người chuyên về báo cáo
+reportists|những người chuyên về báo cáo
+reportal|thuộc về báo cáo
+reportous|có tính chất báo cáo
+reportive|có tính chất báo cáo
+reporty|có tính chất báo cáo
+plans|các; dạng số nhiều kế hoạch; lên kế hoạch
+planed|đã; dạng quá khứ kế hoạch; lên kế hoạch
+planing|đang; dạng tiếp diễn kế hoạch; lên kế hoạch
+planer|người thực hiện kế hoạch; lên kế hoạch
+planers|những người thực hiện kế hoạch; lên kế hoạch
+planful|đầy; có nhiều kế hoạch; lên kế hoạch
+planless|không có kế hoạch; lên kế hoạch
+planly|một cách kế hoạch; lên kế hoạch
+planness|sự; trạng thái kế hoạch; lên kế hoạch
+planable|có thể kế hoạch; lên kế hoạch
+planment|sự; việc kế hoạch; lên kế hoạch
+plantion|sự; việc kế hoạch; lên kế hoạch
+planations|các sự; việc kế hoạch; lên kế hoạch
+planist|người chuyên về kế hoạch; lên kế hoạch
+planists|những người chuyên về kế hoạch; lên kế hoạch
+planal|thuộc về kế hoạch; lên kế hoạch
+planous|có tính chất kế hoạch; lên kế hoạch
+planive|có tính chất kế hoạch; lên kế hoạch
+plany|có tính chất kế hoạch; lên kế hoạch
+projects|các; dạng số nhiều dự án
+projected|đã; dạng quá khứ dự án
+projecting|đang; dạng tiếp diễn dự án
+projecter|người thực hiện dự án
+projecters|những người thực hiện dự án
+projectful|đầy; có nhiều dự án
+projectless|không có dự án
+projectly|một cách dự án
+projectness|sự; trạng thái dự án
+projectable|có thể dự án
+projectment|sự; việc dự án
+projecttion|sự; việc dự án
+projectations|các sự; việc dự án
+projectist|người chuyên về dự án
+projectists|những người chuyên về dự án
+projectal|thuộc về dự án
+projectous|có tính chất dự án
+projective|có tính chất dự án
+projecty|có tính chất dự án
+emails|các; dạng số nhiều thư điện tử
+emailed|đã; dạng quá khứ thư điện tử
+emailing|đang; dạng tiếp diễn thư điện tử
+emailer|người thực hiện thư điện tử
+emailers|những người thực hiện thư điện tử
+emailful|đầy; có nhiều thư điện tử
+emailless|không có thư điện tử
+emailly|một cách thư điện tử
+emailness|sự; trạng thái thư điện tử
+emailable|có thể thư điện tử
+emailment|sự; việc thư điện tử
+emailtion|sự; việc thư điện tử
+emailations|các sự; việc thư điện tử
+emailist|người chuyên về thư điện tử
+emailists|những người chuyên về thư điện tử
+emailal|thuộc về thư điện tử
+emailous|có tính chất thư điện tử
+emailive|có tính chất thư điện tử
+emaily|có tính chất thư điện tử
+markets|các; dạng số nhiều thị trường; chợ
+marketed|đã; dạng quá khứ thị trường; chợ
+marketing|đang; dạng tiếp diễn thị trường; chợ
+marketer|người thực hiện thị trường; chợ
+marketers|những người thực hiện thị trường; chợ
+marketful|đầy; có nhiều thị trường; chợ
+marketless|không có thị trường; chợ
+marketly|một cách thị trường; chợ
+marketness|sự; trạng thái thị trường; chợ
+marketable|có thể thị trường; chợ
+marketment|sự; việc thị trường; chợ
+markettion|sự; việc thị trường; chợ
+marketations|các sự; việc thị trường; chợ
+marketist|người chuyên về thị trường; chợ
+marketists|những người chuyên về thị trường; chợ
+marketal|thuộc về thị trường; chợ
+marketous|có tính chất thị trường; chợ
+marketive|có tính chất thị trường; chợ
+markety|có tính chất thị trường; chợ
+familys|các; dạng số nhiều gia đình
+familyed|đã; dạng quá khứ gia đình
+familying|đang; dạng tiếp diễn gia đình
+familyer|người thực hiện gia đình
+familyers|những người thực hiện gia đình
+familyful|đầy; có nhiều gia đình
+familyless|không có gia đình
+familyly|một cách gia đình
+familyness|sự; trạng thái gia đình
+familyable|có thể gia đình
+familyment|sự; việc gia đình
+familytion|sự; việc gia đình
+familyations|các sự; việc gia đình
+familyist|người chuyên về gia đình
+familyists|những người chuyên về gia đình
+familyal|thuộc về gia đình
+familyous|có tính chất gia đình
+familyive|có tính chất gia đình
+familyy|có tính chất gia đình
+mothers|các; dạng số nhiều mẹ
+mothered|đã; dạng quá khứ mẹ
+mothering|đang; dạng tiếp diễn mẹ
+motherer|người thực hiện mẹ
+motherers|những người thực hiện mẹ
+motherful|đầy; có nhiều mẹ
+motherless|không có mẹ
+motherly|một cách mẹ
+motherness|sự; trạng thái mẹ
+motherable|có thể mẹ
+motherment|sự; việc mẹ
+mothertion|sự; việc mẹ
+motherations|các sự; việc mẹ
+motherist|người chuyên về mẹ
+motherists|những người chuyên về mẹ
+motheral|thuộc về mẹ
+motherous|có tính chất mẹ
+motherive|có tính chất mẹ
+mothery|có tính chất mẹ
+fathers|các; dạng số nhiều bố; cha
+fathered|đã; dạng quá khứ bố; cha
+fathering|đang; dạng tiếp diễn bố; cha
+fatherer|người thực hiện bố; cha
+fatherers|những người thực hiện bố; cha
+fatherful|đầy; có nhiều bố; cha
+fatherless|không có bố; cha
+fatherly|một cách bố; cha
+fatherness|sự; trạng thái bố; cha
+fatherable|có thể bố; cha
+fatherment|sự; việc bố; cha
+fathertion|sự; việc bố; cha
+fatherations|các sự; việc bố; cha
+fatherist|người chuyên về bố; cha
+fatherists|những người chuyên về bố; cha
+fatheral|thuộc về bố; cha
+fatherous|có tính chất bố; cha
+fatherive|có tính chất bố; cha
+fathery|có tính chất bố; cha
+parents|các; dạng số nhiều cha mẹ
+parented|đã; dạng quá khứ cha mẹ
+parenting|đang; dạng tiếp diễn cha mẹ
+parenter|người thực hiện cha mẹ
+parenters|những người thực hiện cha mẹ
+parentful|đầy; có nhiều cha mẹ
+parentless|không có cha mẹ
+parently|một cách cha mẹ
+parentness|sự; trạng thái cha mẹ
+parentable|có thể cha mẹ
+parentment|sự; việc cha mẹ
+parenttion|sự; việc cha mẹ
+parentations|các sự; việc cha mẹ
+parentist|người chuyên về cha mẹ
+parentists|những người chuyên về cha mẹ
+parental|thuộc về cha mẹ
+parentous|có tính chất cha mẹ
+parentive|có tính chất cha mẹ
+parenty|có tính chất cha mẹ
+sisters|các; dạng số nhiều chị; em gái
+sistered|đã; dạng quá khứ chị; em gái
+sistering|đang; dạng tiếp diễn chị; em gái
+sisterer|người thực hiện chị; em gái
+sisterers|những người thực hiện chị; em gái
+sisterful|đầy; có nhiều chị; em gái
+sisterless|không có chị; em gái
+sisterly|một cách chị; em gái
+sisterness|sự; trạng thái chị; em gái
+sisterable|có thể chị; em gái
+sisterment|sự; việc chị; em gái
+sistertion|sự; việc chị; em gái
+sisterations|các sự; việc chị; em gái
+sisterist|người chuyên về chị; em gái
+sisterists|những người chuyên về chị; em gái
+sisteral|thuộc về chị; em gái
+sisterous|có tính chất chị; em gái
+sisterive|có tính chất chị; em gái
+sistery|có tính chất chị; em gái
+brothers|các; dạng số nhiều anh; em trai
+brothered|đã; dạng quá khứ anh; em trai
+brothering|đang; dạng tiếp diễn anh; em trai
+brotherer|người thực hiện anh; em trai
+brotherers|những người thực hiện anh; em trai
+brotherful|đầy; có nhiều anh; em trai
+brotherless|không có anh; em trai
+brotherly|một cách anh; em trai
+brotherness|sự; trạng thái anh; em trai
+brotherable|có thể anh; em trai
+brotherment|sự; việc anh; em trai
+brothertion|sự; việc anh; em trai
+brotherations|các sự; việc anh; em trai
+brotherist|người chuyên về anh; em trai
+brotherists|những người chuyên về anh; em trai
+brotheral|thuộc về anh; em trai
+brotherous|có tính chất anh; em trai
+brotherive|có tính chất anh; em trai
+brothery|có tính chất anh; em trai
+friends|các; dạng số nhiều bạn bè
+friended|đã; dạng quá khứ bạn bè
+friending|đang; dạng tiếp diễn bạn bè
+friender|người thực hiện bạn bè
+frienders|những người thực hiện bạn bè
+friendful|đầy; có nhiều bạn bè
+friendless|không có bạn bè
+friendly|một cách bạn bè
+friendness|sự; trạng thái bạn bè
+friendable|có thể bạn bè
+friendment|sự; việc bạn bè
+friendtion|sự; việc bạn bè
+friendations|các sự; việc bạn bè
+friendist|người chuyên về bạn bè
+friendists|những người chuyên về bạn bè
+friendal|thuộc về bạn bè
+friendous|có tính chất bạn bè
+friendive|có tính chất bạn bè
+friendy|có tính chất bạn bè
+childs|các; dạng số nhiều đứa trẻ
+childed|đã; dạng quá khứ đứa trẻ
+childing|đang; dạng tiếp diễn đứa trẻ
+childer|người thực hiện đứa trẻ
+childers|những người thực hiện đứa trẻ
+childful|đầy; có nhiều đứa trẻ
+childless|không có đứa trẻ
+childly|một cách đứa trẻ
+childness|sự; trạng thái đứa trẻ
+childable|có thể đứa trẻ
+childment|sự; việc đứa trẻ
+childtion|sự; việc đứa trẻ
+childations|các sự; việc đứa trẻ
+childist|người chuyên về đứa trẻ
+childists|những người chuyên về đứa trẻ
+childal|thuộc về đứa trẻ
+childous|có tính chất đứa trẻ
+childive|có tính chất đứa trẻ
+childy|có tính chất đứa trẻ
+persons|các; dạng số nhiều người
+personed|đã; dạng quá khứ người
+personing|đang; dạng tiếp diễn người
+personer|người thực hiện người
+personers|những người thực hiện người
+personful|đầy; có nhiều người
+personless|không có người
+personly|một cách người
+personness|sự; trạng thái người
+personable|có thể người
+personment|sự; việc người
+persontion|sự; việc người
+personations|các sự; việc người
+personist|người chuyên về người
+personists|những người chuyên về người
+personal|thuộc về người
+personous|có tính chất người
+personive|có tính chất người
+persony|có tính chất người
+peoples|các; dạng số nhiều mọi người
+peopleed|đã; dạng quá khứ mọi người
+peopleing|đang; dạng tiếp diễn mọi người
+peopleer|người thực hiện mọi người
+peopleers|những người thực hiện mọi người
+peopleful|đầy; có nhiều mọi người
+peopleless|không có mọi người
+peoplely|một cách mọi người
+peopleness|sự; trạng thái mọi người
+peopleable|có thể mọi người
+peoplement|sự; việc mọi người
+peopletion|sự; việc mọi người
+peopleations|các sự; việc mọi người
+peopleist|người chuyên về mọi người
+peopleists|những người chuyên về mọi người
+peopleal|thuộc về mọi người
+peopleous|có tính chất mọi người
+peopleive|có tính chất mọi người
+peopley|có tính chất mọi người
+mans|các; dạng số nhiều đàn ông
+maned|đã; dạng quá khứ đàn ông
+maning|đang; dạng tiếp diễn đàn ông
+maner|người thực hiện đàn ông
+maners|những người thực hiện đàn ông
+manful|đầy; có nhiều đàn ông
+manless|không có đàn ông
+manly|một cách đàn ông
+manness|sự; trạng thái đàn ông
+manable|có thể đàn ông
+manment|sự; việc đàn ông
+mantion|sự; việc đàn ông
+manations|các sự; việc đàn ông
+manist|người chuyên về đàn ông
+manists|những người chuyên về đàn ông
+manal|thuộc về đàn ông
+manous|có tính chất đàn ông
+manive|có tính chất đàn ông
+many|có tính chất đàn ông
+womans|các; dạng số nhiều phụ nữ
+womaned|đã; dạng quá khứ phụ nữ
+womaning|đang; dạng tiếp diễn phụ nữ
+womaner|người thực hiện phụ nữ
+womaners|những người thực hiện phụ nữ
+womanful|đầy; có nhiều phụ nữ
+womanless|không có phụ nữ
+womanly|một cách phụ nữ
+womanness|sự; trạng thái phụ nữ
+womanable|có thể phụ nữ
+womanment|sự; việc phụ nữ
+womantion|sự; việc phụ nữ
+womanations|các sự; việc phụ nữ
+womanist|người chuyên về phụ nữ
+womanists|những người chuyên về phụ nữ
+womanal|thuộc về phụ nữ
+womanous|có tính chất phụ nữ
+womanive|có tính chất phụ nữ
+womany|có tính chất phụ nữ
+names|các; dạng số nhiều tên
+nameed|đã; dạng quá khứ tên
+nameing|đang; dạng tiếp diễn tên
+nameer|người thực hiện tên
+nameers|những người thực hiện tên
+nameful|đầy; có nhiều tên
+nameless|không có tên
+namely|một cách tên
+nameness|sự; trạng thái tên
+nameable|có thể tên
+namement|sự; việc tên
+nametion|sự; việc tên
+nameations|các sự; việc tên
+nameist|người chuyên về tên
+nameists|những người chuyên về tên
+nameal|thuộc về tên
+nameous|có tính chất tên
+nameive|có tính chất tên
+namey|có tính chất tên
+happys|các; dạng số nhiều vui vẻ
+happyed|đã; dạng quá khứ vui vẻ
+happying|đang; dạng tiếp diễn vui vẻ
+happyer|người thực hiện vui vẻ
+happyers|những người thực hiện vui vẻ
+happyful|đầy; có nhiều vui vẻ
+happyless|không có vui vẻ
+happyly|một cách vui vẻ
+happyness|sự; trạng thái vui vẻ
+happyable|có thể vui vẻ
+happyment|sự; việc vui vẻ
+happytion|sự; việc vui vẻ
+happyations|các sự; việc vui vẻ
+happyist|người chuyên về vui vẻ
+happyists|những người chuyên về vui vẻ
+happyal|thuộc về vui vẻ
+happyous|có tính chất vui vẻ
+happyive|có tính chất vui vẻ
+happyy|có tính chất vui vẻ
+sads|các; dạng số nhiều buồn
+saded|đã; dạng quá khứ buồn
+sading|đang; dạng tiếp diễn buồn
+sader|người thực hiện buồn
+saders|những người thực hiện buồn
+sadful|đầy; có nhiều buồn
+sadless|không có buồn
+sadly|một cách buồn
+sadness|sự; trạng thái buồn
+sadable|có thể buồn
+sadment|sự; việc buồn
+sadtion|sự; việc buồn
+sadations|các sự; việc buồn
+sadist|người chuyên về buồn
+sadists|những người chuyên về buồn
+sadal|thuộc về buồn
+sadous|có tính chất buồn
+sadive|có tính chất buồn
+sady|có tính chất buồn
+angrys|các; dạng số nhiều tức giận
+angryed|đã; dạng quá khứ tức giận
+angrying|đang; dạng tiếp diễn tức giận
+angryer|người thực hiện tức giận
+angryers|những người thực hiện tức giận
+angryful|đầy; có nhiều tức giận
+angryless|không có tức giận
+angryly|một cách tức giận
+angryness|sự; trạng thái tức giận
+angryable|có thể tức giận
+angryment|sự; việc tức giận
+angrytion|sự; việc tức giận
+angryations|các sự; việc tức giận
+angryist|người chuyên về tức giận
+angryists|những người chuyên về tức giận
+angryal|thuộc về tức giận
+angryous|có tính chất tức giận
+angryive|có tính chất tức giận
+angryy|có tính chất tức giận
+loves|các; dạng số nhiều yêu; tình yêu
+loveed|đã; dạng quá khứ yêu; tình yêu
+loveing|đang; dạng tiếp diễn yêu; tình yêu
+loveer|người thực hiện yêu; tình yêu
+loveers|những người thực hiện yêu; tình yêu
+loveful|đầy; có nhiều yêu; tình yêu
+loveless|không có yêu; tình yêu
+lovely|một cách yêu; tình yêu
+loveness|sự; trạng thái yêu; tình yêu
+loveable|có thể yêu; tình yêu
+lovement|sự; việc yêu; tình yêu
+lovetion|sự; việc yêu; tình yêu
+loveations|các sự; việc yêu; tình yêu
+loveist|người chuyên về yêu; tình yêu
+loveists|những người chuyên về yêu; tình yêu
+loveal|thuộc về yêu; tình yêu
+loveous|có tính chất yêu; tình yêu
+loveive|có tính chất yêu; tình yêu
+lovey|có tính chất yêu; tình yêu
+likes|các; dạng số nhiều thích
+likeed|đã; dạng quá khứ thích
+likeing|đang; dạng tiếp diễn thích
+likeer|người thực hiện thích
+likeers|những người thực hiện thích
+likeful|đầy; có nhiều thích
+likeless|không có thích
+likely|một cách thích
+likeness|sự; trạng thái thích
+likeable|có thể thích
+likement|sự; việc thích
+liketion|sự; việc thích
+likeations|các sự; việc thích
+likeist|người chuyên về thích
+likeists|những người chuyên về thích
+likeal|thuộc về thích
+likeous|có tính chất thích
+likeive|có tính chất thích
+likey|có tính chất thích
+hopes|các; dạng số nhiều hy vọng
+hopeed|đã; dạng quá khứ hy vọng
+hopeing|đang; dạng tiếp diễn hy vọng
+hopeer|người thực hiện hy vọng
+hopeers|những người thực hiện hy vọng
+hopeful|đầy; có nhiều hy vọng
+hopeless|không có hy vọng
+hopely|một cách hy vọng
+hopeness|sự; trạng thái hy vọng
+hopeable|có thể hy vọng
+hopement|sự; việc hy vọng
+hopetion|sự; việc hy vọng
+hopeations|các sự; việc hy vọng
+hopeist|người chuyên về hy vọng
+hopeists|những người chuyên về hy vọng
+hopeal|thuộc về hy vọng
+hopeous|có tính chất hy vọng
+hopeive|có tính chất hy vọng
+hopey|có tính chất hy vọng
+fears|các; dạng số nhiều sợ hãi
+feared|đã; dạng quá khứ sợ hãi
+fearing|đang; dạng tiếp diễn sợ hãi
+fearer|người thực hiện sợ hãi
+fearers|những người thực hiện sợ hãi
+fearful|đầy; có nhiều sợ hãi
+fearless|không có sợ hãi
+fearly|một cách sợ hãi
+fearness|sự; trạng thái sợ hãi
+fearable|có thể sợ hãi
+fearment|sự; việc sợ hãi
+feartion|sự; việc sợ hãi
+fearations|các sự; việc sợ hãi
+fearist|người chuyên về sợ hãi
+fearists|những người chuyên về sợ hãi
+fearal|thuộc về sợ hãi
+fearous|có tính chất sợ hãi
+fearive|có tính chất sợ hãi
+feary|có tính chất sợ hãi
+goods|các; dạng số nhiều tốt
+gooded|đã; dạng quá khứ tốt
+gooding|đang; dạng tiếp diễn tốt
+gooder|người thực hiện tốt
+gooders|những người thực hiện tốt
+goodful|đầy; có nhiều tốt
+goodless|không có tốt
+goodly|một cách tốt
+goodness|sự; trạng thái tốt
+goodable|có thể tốt
+goodment|sự; việc tốt
+goodtion|sự; việc tốt
+goodations|các sự; việc tốt
+goodist|người chuyên về tốt
+goodists|những người chuyên về tốt
+goodal|thuộc về tốt
+goodous|có tính chất tốt
+goodive|có tính chất tốt
+goody|có tính chất tốt
+bads|các; dạng số nhiều xấu; tệ
+baded|đã; dạng quá khứ xấu; tệ
+bading|đang; dạng tiếp diễn xấu; tệ
+bader|người thực hiện xấu; tệ
+baders|những người thực hiện xấu; tệ
+badful|đầy; có nhiều xấu; tệ
+badless|không có xấu; tệ
+badly|một cách xấu; tệ
+badness|sự; trạng thái xấu; tệ
+badable|có thể xấu; tệ
+badment|sự; việc xấu; tệ
+badtion|sự; việc xấu; tệ
+badations|các sự; việc xấu; tệ
+badist|người chuyên về xấu; tệ
+badists|những người chuyên về xấu; tệ
+badal|thuộc về xấu; tệ
+badous|có tính chất xấu; tệ
+badive|có tính chất xấu; tệ
+bady|có tính chất xấu; tệ
+bigs|các; dạng số nhiều to; lớn
+biged|đã; dạng quá khứ to; lớn
+biging|đang; dạng tiếp diễn to; lớn
+biger|người thực hiện to; lớn
+bigers|những người thực hiện to; lớn
+bigful|đầy; có nhiều to; lớn
+bigless|không có to; lớn
+bigly|một cách to; lớn
+bigness|sự; trạng thái to; lớn
+bigable|có thể to; lớn
+bigment|sự; việc to; lớn
+bigtion|sự; việc to; lớn
+bigations|các sự; việc to; lớn
+bigist|người chuyên về to; lớn
+bigists|những người chuyên về to; lớn
+bigal|thuộc về to; lớn
+bigous|có tính chất to; lớn
+bigive|có tính chất to; lớn
+bigy|có tính chất to; lớn
+smalls|các; dạng số nhiều nhỏ
+smalled|đã; dạng quá khứ nhỏ
+smalling|đang; dạng tiếp diễn nhỏ
+smaller|người thực hiện nhỏ
+smallers|những người thực hiện nhỏ
+smallful|đầy; có nhiều nhỏ
+smallless|không có nhỏ
+smallly|một cách nhỏ
+smallness|sự; trạng thái nhỏ
+smallable|có thể nhỏ
+smallment|sự; việc nhỏ
+smalltion|sự; việc nhỏ
+smallations|các sự; việc nhỏ
+smallist|người chuyên về nhỏ
+smallists|những người chuyên về nhỏ
+smallal|thuộc về nhỏ
+smallous|có tính chất nhỏ
+smallive|có tính chất nhỏ
+smally|có tính chất nhỏ
+longs|các; dạng số nhiều dài
+longed|đã; dạng quá khứ dài
+longing|đang; dạng tiếp diễn dài
+longer|người thực hiện dài
+longers|những người thực hiện dài
+longful|đầy; có nhiều dài
+longless|không có dài
+longly|một cách dài
+longness|sự; trạng thái dài
+longable|có thể dài
+longment|sự; việc dài
+longtion|sự; việc dài
+longations|các sự; việc dài
+longist|người chuyên về dài
+longists|những người chuyên về dài
+longal|thuộc về dài
+longous|có tính chất dài
+longive|có tính chất dài
+longy|có tính chất dài
+shorts|các; dạng số nhiều ngắn; thấp
+shorted|đã; dạng quá khứ ngắn; thấp
+shorting|đang; dạng tiếp diễn ngắn; thấp
+shorter|người thực hiện ngắn; thấp
+shorters|những người thực hiện ngắn; thấp
+shortful|đầy; có nhiều ngắn; thấp
+shortless|không có ngắn; thấp
+shortly|một cách ngắn; thấp
+shortness|sự; trạng thái ngắn; thấp
+shortable|có thể ngắn; thấp
+shortment|sự; việc ngắn; thấp
+shorttion|sự; việc ngắn; thấp
+shortations|các sự; việc ngắn; thấp
+shortist|người chuyên về ngắn; thấp
+shortists|những người chuyên về ngắn; thấp
+shortal|thuộc về ngắn; thấp
+shortous|có tính chất ngắn; thấp
+shortive|có tính chất ngắn; thấp
+shorty|có tính chất ngắn; thấp
+highs|các; dạng số nhiều cao
+highed|đã; dạng quá khứ cao
+highing|đang; dạng tiếp diễn cao
+higher|người thực hiện cao
+highers|những người thực hiện cao
+highful|đầy; có nhiều cao
+highless|không có cao
+highly|một cách cao
+highness|sự; trạng thái cao
+highable|có thể cao
+highment|sự; việc cao
+hightion|sự; việc cao
+highations|các sự; việc cao
+highist|người chuyên về cao
+highists|những người chuyên về cao
+highal|thuộc về cao
+highous|có tính chất cao
+highive|có tính chất cao
+highy|có tính chất cao
+lows|các; dạng số nhiều thấp
+lowed|đã; dạng quá khứ thấp
+lowing|đang; dạng tiếp diễn thấp
+lower|người thực hiện thấp
+lowers|những người thực hiện thấp
+lowful|đầy; có nhiều thấp
+lowless|không có thấp
+lowly|một cách thấp
+lowness|sự; trạng thái thấp
+lowable|có thể thấp
+lowment|sự; việc thấp
+lowtion|sự; việc thấp
+lowations|các sự; việc thấp
+lowist|người chuyên về thấp
+lowists|những người chuyên về thấp
+lowal|thuộc về thấp
+lowous|có tính chất thấp
+lowive|có tính chất thấp
+lowy|có tính chất thấp
+news|các; dạng số nhiều mới
+newed|đã; dạng quá khứ mới
+newing|đang; dạng tiếp diễn mới
+newer|người thực hiện mới
+newers|những người thực hiện mới
+newful|đầy; có nhiều mới
+newless|không có mới
+newly|một cách mới
+newness|sự; trạng thái mới
+newable|có thể mới
+newment|sự; việc mới
+newtion|sự; việc mới
+newations|các sự; việc mới
+newist|người chuyên về mới
+newists|những người chuyên về mới
+newal|thuộc về mới
+newous|có tính chất mới
+newive|có tính chất mới
+newy|có tính chất mới
+olds|các; dạng số nhiều cũ; già
+olded|đã; dạng quá khứ cũ; già
+olding|đang; dạng tiếp diễn cũ; già
+older|người thực hiện cũ; già
+olders|những người thực hiện cũ; già
+oldful|đầy; có nhiều cũ; già
+oldless|không có cũ; già
+oldly|một cách cũ; già
+oldness|sự; trạng thái cũ; già
+oldable|có thể cũ; già
+oldment|sự; việc cũ; già
+oldtion|sự; việc cũ; già
+oldations|các sự; việc cũ; già
+oldist|người chuyên về cũ; già
+oldists|những người chuyên về cũ; già
+oldal|thuộc về cũ; già
+oldous|có tính chất cũ; già
+oldive|có tính chất cũ; già
+oldy|có tính chất cũ; già
+youngs|các; dạng số nhiều trẻ
+younged|đã; dạng quá khứ trẻ
+younging|đang; dạng tiếp diễn trẻ
+younger|người thực hiện trẻ
+youngers|những người thực hiện trẻ
+youngful|đầy; có nhiều trẻ
+youngless|không có trẻ
+youngly|một cách trẻ
+youngness|sự; trạng thái trẻ
+youngable|có thể trẻ
+youngment|sự; việc trẻ
+youngtion|sự; việc trẻ
+youngations|các sự; việc trẻ
+youngist|người chuyên về trẻ
+youngists|những người chuyên về trẻ
+youngal|thuộc về trẻ
+youngous|có tính chất trẻ
+youngive|có tính chất trẻ
+youngy|có tính chất trẻ
+easys|các; dạng số nhiều dễ
+easyed|đã; dạng quá khứ dễ
+easying|đang; dạng tiếp diễn dễ
+easyer|người thực hiện dễ
+easyers|những người thực hiện dễ
+easyful|đầy; có nhiều dễ
+easyless|không có dễ
+easyly|một cách dễ
+easyness|sự; trạng thái dễ
+easyable|có thể dễ
+easyment|sự; việc dễ
+easytion|sự; việc dễ
+easyations|các sự; việc dễ
+easyist|người chuyên về dễ
+easyists|những người chuyên về dễ
+easyal|thuộc về dễ
+easyous|có tính chất dễ
+easyive|có tính chất dễ
+easyy|có tính chất dễ
+hards|các; dạng số nhiều khó; cứng
+harded|đã; dạng quá khứ khó; cứng
+harding|đang; dạng tiếp diễn khó; cứng
+harder|người thực hiện khó; cứng
+harders|những người thực hiện khó; cứng
+hardful|đầy; có nhiều khó; cứng
+hardless|không có khó; cứng
+hardly|một cách khó; cứng
+hardness|sự; trạng thái khó; cứng
+hardable|có thể khó; cứng
+hardment|sự; việc khó; cứng
+hardtion|sự; việc khó; cứng
+hardations|các sự; việc khó; cứng
+hardist|người chuyên về khó; cứng
+hardists|những người chuyên về khó; cứng
+hardal|thuộc về khó; cứng
+hardous|có tính chất khó; cứng
+hardive|có tính chất khó; cứng
+hardy|có tính chất khó; cứng
+fasts|các; dạng số nhiều nhanh
+fasted|đã; dạng quá khứ nhanh
+fasting|đang; dạng tiếp diễn nhanh
+faster|người thực hiện nhanh
+fasters|những người thực hiện nhanh
+fastful|đầy; có nhiều nhanh
+fastless|không có nhanh
+fastly|một cách nhanh
+fastness|sự; trạng thái nhanh
+fastable|có thể nhanh
+fastment|sự; việc nhanh
+fasttion|sự; việc nhanh
+fastations|các sự; việc nhanh
+fastist|người chuyên về nhanh
+fastists|những người chuyên về nhanh
+fastal|thuộc về nhanh
+fastous|có tính chất nhanh
+fastive|có tính chất nhanh
+fasty|có tính chất nhanh
+slows|các; dạng số nhiều chậm
+slowed|đã; dạng quá khứ chậm
+slowing|đang; dạng tiếp diễn chậm
+slower|người thực hiện chậm
+slowers|những người thực hiện chậm
+slowful|đầy; có nhiều chậm
+slowless|không có chậm
+slowly|một cách chậm
+slowness|sự; trạng thái chậm
+slowable|có thể chậm
+slowment|sự; việc chậm
+slowtion|sự; việc chậm
+slowations|các sự; việc chậm
+slowist|người chuyên về chậm
+slowists|những người chuyên về chậm
+slowal|thuộc về chậm
+slowous|có tính chất chậm
+slowive|có tính chất chậm
+slowy|có tính chất chậm
+hots|các; dạng số nhiều nóng
+hoted|đã; dạng quá khứ nóng
+hoting|đang; dạng tiếp diễn nóng
+hoter|người thực hiện nóng
+hoters|những người thực hiện nóng
+hotful|đầy; có nhiều nóng
+hotless|không có nóng
+hotly|một cách nóng
+hotness|sự; trạng thái nóng
+hotable|có thể nóng
+hotment|sự; việc nóng
+hottion|sự; việc nóng
+hotations|các sự; việc nóng
+hotist|người chuyên về nóng
+hotists|những người chuyên về nóng
+hotal|thuộc về nóng
+hotous|có tính chất nóng
+hotive|có tính chất nóng
+hoty|có tính chất nóng
+colds|các; dạng số nhiều lạnh
+colded|đã; dạng quá khứ lạnh
+colding|đang; dạng tiếp diễn lạnh
+colder|người thực hiện lạnh
+colders|những người thực hiện lạnh
+coldful|đầy; có nhiều lạnh
+coldless|không có lạnh
+coldly|một cách lạnh
+coldness|sự; trạng thái lạnh
+coldable|có thể lạnh
+coldment|sự; việc lạnh
+coldtion|sự; việc lạnh
+coldations|các sự; việc lạnh
+coldist|người chuyên về lạnh
+coldists|những người chuyên về lạnh
+coldal|thuộc về lạnh
+coldous|có tính chất lạnh
+coldive|có tính chất lạnh
+coldy|có tính chất lạnh
+warms|các; dạng số nhiều ấm
+warmed|đã; dạng quá khứ ấm
+warming|đang; dạng tiếp diễn ấm
+warmer|người thực hiện ấm
+warmers|những người thực hiện ấm
+warmful|đầy; có nhiều ấm
+warmless|không có ấm
+warmly|một cách ấm
+warmness|sự; trạng thái ấm
+warmable|có thể ấm
+warmment|sự; việc ấm
+warmtion|sự; việc ấm
+warmations|các sự; việc ấm
+warmist|người chuyên về ấm
+warmists|những người chuyên về ấm
+warmal|thuộc về ấm
+warmous|có tính chất ấm
+warmive|có tính chất ấm
+warmy|có tính chất ấm
+cools|các; dạng số nhiều mát; ngầu
+cooled|đã; dạng quá khứ mát; ngầu
+cooling|đang; dạng tiếp diễn mát; ngầu
+cooler|người thực hiện mát; ngầu
+coolers|những người thực hiện mát; ngầu
+coolful|đầy; có nhiều mát; ngầu
+coolless|không có mát; ngầu
+coolly|một cách mát; ngầu
+coolness|sự; trạng thái mát; ngầu
+coolable|có thể mát; ngầu
+coolment|sự; việc mát; ngầu
+cooltion|sự; việc mát; ngầu
+coolations|các sự; việc mát; ngầu
+coolist|người chuyên về mát; ngầu
+coolists|những người chuyên về mát; ngầu
+coolal|thuộc về mát; ngầu
+coolous|có tính chất mát; ngầu
+coolive|có tính chất mát; ngầu
+cooly|có tính chất mát; ngầu
+beautifuls|các; dạng số nhiều đẹp
+beautifuled|đã; dạng quá khứ đẹp
+beautifuling|đang; dạng tiếp diễn đẹp
+beautifuler|người thực hiện đẹp
+beautifulers|những người thực hiện đẹp
+beautifulful|đầy; có nhiều đẹp
+beautifulless|không có đẹp
+beautifully|một cách đẹp
+beautifulness|sự; trạng thái đẹp
+beautifulable|có thể đẹp
+beautifulment|sự; việc đẹp
+beautifultion|sự; việc đẹp
+beautifulations|các sự; việc đẹp
+beautifulist|người chuyên về đẹp
+beautifulists|những người chuyên về đẹp
+beautifulal|thuộc về đẹp
+beautifulous|có tính chất đẹp
+beautifulive|có tính chất đẹp
+beautifuly|có tính chất đẹp
+importants|các; dạng số nhiều quan trọng
+importanted|đã; dạng quá khứ quan trọng
+importanting|đang; dạng tiếp diễn quan trọng
+importanter|người thực hiện quan trọng
+importanters|những người thực hiện quan trọng
+importantful|đầy; có nhiều quan trọng
+importantless|không có quan trọng
+importantly|một cách quan trọng
+importantness|sự; trạng thái quan trọng
+importantable|có thể quan trọng
+importantment|sự; việc quan trọng
+importanttion|sự; việc quan trọng
+importantations|các sự; việc quan trọng
+importantist|người chuyên về quan trọng
+importantists|những người chuyên về quan trọng
+importantal|thuộc về quan trọng
+importantous|có tính chất quan trọng
+importantive|có tính chất quan trọng
+importanty|có tính chất quan trọng
+differents|các; dạng số nhiều khác nhau
+differented|đã; dạng quá khứ khác nhau
+differenting|đang; dạng tiếp diễn khác nhau
+differenter|người thực hiện khác nhau
+differenters|những người thực hiện khác nhau
+differentful|đầy; có nhiều khác nhau
+differentless|không có khác nhau
+differently|một cách khác nhau
+differentness|sự; trạng thái khác nhau
+differentable|có thể khác nhau
+differentment|sự; việc khác nhau
+differenttion|sự; việc khác nhau
+differentations|các sự; việc khác nhau
+differentist|người chuyên về khác nhau
+differentists|những người chuyên về khác nhau
+differental|thuộc về khác nhau
+differentous|có tính chất khác nhau
+differentive|có tính chất khác nhau
+differenty|có tính chất khác nhau
+sames|các; dạng số nhiều giống nhau
+sameed|đã; dạng quá khứ giống nhau
+sameing|đang; dạng tiếp diễn giống nhau
+sameer|người thực hiện giống nhau
+sameers|những người thực hiện giống nhau
+sameful|đầy; có nhiều giống nhau
+sameless|không có giống nhau
+samely|một cách giống nhau
+sameness|sự; trạng thái giống nhau
+sameable|có thể giống nhau
+samement|sự; việc giống nhau
+sametion|sự; việc giống nhau
+sameations|các sự; việc giống nhau
+sameist|người chuyên về giống nhau
+sameists|những người chuyên về giống nhau
+sameal|thuộc về giống nhau
+sameous|có tính chất giống nhau
+sameive|có tính chất giống nhau
+samey|có tính chất giống nhau
+rights|các; dạng số nhiều đúng; bên phải
+righted|đã; dạng quá khứ đúng; bên phải
+righting|đang; dạng tiếp diễn đúng; bên phải
+righter|người thực hiện đúng; bên phải
+righters|những người thực hiện đúng; bên phải
+rightful|đầy; có nhiều đúng; bên phải
+rightless|không có đúng; bên phải
+rightly|một cách đúng; bên phải
+rightness|sự; trạng thái đúng; bên phải
+rightable|có thể đúng; bên phải
+rightment|sự; việc đúng; bên phải
+righttion|sự; việc đúng; bên phải
+rightations|các sự; việc đúng; bên phải
+rightist|người chuyên về đúng; bên phải
+rightists|những người chuyên về đúng; bên phải
+rightal|thuộc về đúng; bên phải
+rightous|có tính chất đúng; bên phải
+rightive|có tính chất đúng; bên phải
+righty|có tính chất đúng; bên phải
+wrongs|các; dạng số nhiều sai
+wronged|đã; dạng quá khứ sai
+wronging|đang; dạng tiếp diễn sai
+wronger|người thực hiện sai
+wrongers|những người thực hiện sai
+wrongful|đầy; có nhiều sai
+wrongless|không có sai
+wrongly|một cách sai
+wrongness|sự; trạng thái sai
+wrongable|có thể sai
+wrongment|sự; việc sai
+wrongtion|sự; việc sai
+wrongations|các sự; việc sai
+wrongist|người chuyên về sai
+wrongists|những người chuyên về sai
+wrongal|thuộc về sai
+wrongous|có tính chất sai
+wrongive|có tính chất sai
+wrongy|có tính chất sai
+runs|các; dạng số nhiều chạy
+runed|đã; dạng quá khứ chạy
+runing|đang; dạng tiếp diễn chạy
+runer|người thực hiện chạy
+runers|những người thực hiện chạy
+runful|đầy; có nhiều chạy
+runless|không có chạy
+runly|một cách chạy
+runness|sự; trạng thái chạy
+runable|có thể chạy
+runment|sự; việc chạy
+runtion|sự; việc chạy
+runations|các sự; việc chạy
+runist|người chuyên về chạy
+runists|những người chuyên về chạy
+runal|thuộc về chạy
+runous|có tính chất chạy
+runive|có tính chất chạy
+runy|có tính chất chạy
+walks|các; dạng số nhiều đi bộ
+walked|đã; dạng quá khứ đi bộ
+walking|đang; dạng tiếp diễn đi bộ
+walker|người thực hiện đi bộ
+walkers|những người thực hiện đi bộ
+walkful|đầy; có nhiều đi bộ
+walkless|không có đi bộ
+walkly|một cách đi bộ
+walkness|sự; trạng thái đi bộ
+walkable|có thể đi bộ
+walkment|sự; việc đi bộ
+walktion|sự; việc đi bộ
+walkations|các sự; việc đi bộ
+walkist|người chuyên về đi bộ
+walkists|những người chuyên về đi bộ
+walkal|thuộc về đi bộ
+walkous|có tính chất đi bộ
+walkive|có tính chất đi bộ
+walky|có tính chất đi bộ
+gos|các; dạng số nhiều đi
+goed|đã; dạng quá khứ đi
+going|đang; dạng tiếp diễn đi
+goer|người thực hiện đi
+goers|những người thực hiện đi
+goful|đầy; có nhiều đi
+goless|không có đi
+goly|một cách đi
+goness|sự; trạng thái đi
+goable|có thể đi
+goment|sự; việc đi
+gotion|sự; việc đi
+goations|các sự; việc đi
+goist|người chuyên về đi
+goists|những người chuyên về đi
+goal|thuộc về đi
+goous|có tính chất đi
+goive|có tính chất đi
+goy|có tính chất đi
+comes|các; dạng số nhiều đến
+comeed|đã; dạng quá khứ đến
+comeing|đang; dạng tiếp diễn đến
+comeer|người thực hiện đến
+comeers|những người thực hiện đến
+comeful|đầy; có nhiều đến
+comeless|không có đến
+comely|một cách đến
+comeness|sự; trạng thái đến
+comeable|có thể đến
+comement|sự; việc đến
+cometion|sự; việc đến
+comeations|các sự; việc đến
+comeist|người chuyên về đến
+comeists|những người chuyên về đến
+comeal|thuộc về đến
+comeous|có tính chất đến
+comeive|có tính chất đến
+comey|có tính chất đến
+sees|các; dạng số nhiều nhìn thấy
+seeed|đã; dạng quá khứ nhìn thấy
+seeing|đang; dạng tiếp diễn nhìn thấy
+seeer|người thực hiện nhìn thấy
+seeers|những người thực hiện nhìn thấy
+seeful|đầy; có nhiều nhìn thấy
+seeless|không có nhìn thấy
+seely|một cách nhìn thấy
+seeness|sự; trạng thái nhìn thấy
+seeable|có thể nhìn thấy
+seement|sự; việc nhìn thấy
+seetion|sự; việc nhìn thấy
+seeations|các sự; việc nhìn thấy
+seeist|người chuyên về nhìn thấy
+seeists|những người chuyên về nhìn thấy
+seeal|thuộc về nhìn thấy
+seeous|có tính chất nhìn thấy
+seeive|có tính chất nhìn thấy
+seey|có tính chất nhìn thấy
+looks|các; dạng số nhiều nhìn
+looked|đã; dạng quá khứ nhìn
+looking|đang; dạng tiếp diễn nhìn
+looker|người thực hiện nhìn
+lookers|những người thực hiện nhìn
+lookful|đầy; có nhiều nhìn
+lookless|không có nhìn
+lookly|một cách nhìn
+lookness|sự; trạng thái nhìn
+lookable|có thể nhìn
+lookment|sự; việc nhìn
+looktion|sự; việc nhìn
+lookations|các sự; việc nhìn
+lookist|người chuyên về nhìn
+lookists|những người chuyên về nhìn
+lookal|thuộc về nhìn
+lookous|có tính chất nhìn
+lookive|có tính chất nhìn
+looky|có tính chất nhìn
+watchs|các; dạng số nhiều xem; theo dõi
+watched|đã; dạng quá khứ xem; theo dõi
+watching|đang; dạng tiếp diễn xem; theo dõi
+watcher|người thực hiện xem; theo dõi
+watchers|những người thực hiện xem; theo dõi
+watchful|đầy; có nhiều xem; theo dõi
+watchless|không có xem; theo dõi
+watchly|một cách xem; theo dõi
+watchness|sự; trạng thái xem; theo dõi
+watchable|có thể xem; theo dõi
+watchment|sự; việc xem; theo dõi
+watchtion|sự; việc xem; theo dõi
+watchations|các sự; việc xem; theo dõi
+watchist|người chuyên về xem; theo dõi
+watchists|những người chuyên về xem; theo dõi
+watchal|thuộc về xem; theo dõi
+watchous|có tính chất xem; theo dõi
+watchive|có tính chất xem; theo dõi
+watchy|có tính chất xem; theo dõi
+listens|các; dạng số nhiều nghe
