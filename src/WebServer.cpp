@@ -102,6 +102,10 @@ int main(){SetConsoleOutputCP(CP_UTF8);WSADATA wsa{};if(WSAStartup(MAKEWORD(2,2)
    else body=api(path,q);
   }else if(method!="GET"){status=405;body="Method not allowed";}
   else if(path=="/"||path=="/index.html"){if(!readFile("web/index.html",body))status=404;}
+  else if(path=="/mochi-academy-v10.js"){mime="application/javascript; charset=utf-8";if(!readFile("web/mochi-academy-v10.js",body))status=404;}
+  else if(path=="/mochi-integration.js"){mime="application/javascript; charset=utf-8";if(!readFile("web/mochi-integration.js",body))status=404;}
+  else if(path=="/mochi-vocabulary.json"){mime="application/json; charset=utf-8";if(!readFile("web/mochi-vocabulary.json",body))status=404;}
+  else if(path=="/lexitrie-cu"){if(!readFile("web/lexitrie-cu.html",body))status=404;}
   else if(path=="/style.css"){mime="text/css; charset=utf-8";if(!readFile("web/style.css",body))status=404;}
   else if(path=="/app.js"){mime="application/javascript; charset=utf-8";if(!readFile("web/app.js",body))status=404;}
   else if(path=="/login.js"){mime="application/javascript; charset=utf-8";if(!readFile("web/login.js",body))status=404;}
