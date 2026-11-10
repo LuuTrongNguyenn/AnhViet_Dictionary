@@ -1,0 +1,35 @@
+name: Deploy LexiTrie C++ WebAssembly
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: mymindstorm/setup-emsdk@v14
+      - name: Build C++ Trie to WebAssembly
+        run: |
+          em++ -O2 -std=c++17 src/Trie.cpp src/wasm_bridge.cpp -o web/lexitrie-wasm.js \
+            -s MODULARIZE=1 -s EXPORT_NAME=createLexiTrieModule \
+            -s ALLOW_MEMORY_GROWTH=1 \
+            -s EXPORTED_FUNCTIONS='["_lex_insert","_lex_lookup","_lex_suggest"]' \
+            -s EXPORTED_RUNTIME_METHODS='["cwrap"]'
+          cp data/dictionary.txt web/dictionary.txt
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./web
+      - id: deployment
+        uses: actions/deploy-pages@v4
