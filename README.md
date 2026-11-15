@@ -275,31 +275,14 @@ Nếu host không mở, có thể kiểm tra địa chỉ cục bộ:
 
 Địa chỉ này chỉ hoạt động trên máy đang chạy backend, **không phải link website công khai**.
 
-### 4. Nếu PowerShell không tìm thấy file `.bat`
 
-```powershell
-$file = Get-ChildItem -Path . -Recurse -Filter "build_webview2.bat" -File | Select-Object -First 1
-if ($file) {
-    Set-Location $file.DirectoryName
-    & $file.FullName
-} else {
-    Write-Host "Khong tim thay build_webview2.bat"
-}
-```
-
-### 5. Dừng backend
-
-```powershell
-taskkill /IM LexiTrieBackend.exe /F
-```
-
-### 6. Chạy bản website trực tuyến
+### 4. Chạy bản website trực tuyến
 
 Mở: **https://luutrongnguyenn.github.io/AnhViet_Dictionary/**
 
 Phiên bản này được GitHub Actions biên dịch Trie C++ thành WebAssembly và triển khai lên GitHub Pages. Không cần chạy `LexiTrieBackend.exe` trên máy người xem. Việc đăng nhập yêu cầu kết nối Supabase và có thể chịu giới hạn xác thực/email của gói Free.
 
-### 7. Các bước demo đề xuất
+### 5. Các bước demo đề xuất
 
 1. Mở website và tải lại trang bằng `Ctrl + Shift + R` nếu vừa cập nhật.
 2. Tra từ `apple`, thử gợi ý bằng tiền tố `app`.
@@ -353,21 +336,6 @@ Phiên bản này được GitHub Actions biên dịch Trie C++ thành WebAssemb
 - Bật RLS và chính sách chỉ cho phép tài khoản truy cập dữ liệu của chính mình.
 - Khi cập nhật: commit lên nhánh triển khai → kiểm tra **Actions** → mở website để kiểm thử thực tế.
 
-## 📌 Trạng thái và giới hạn hiện tại
-
-| Hạng mục | Trạng thái ghi nhận |
-|---|---|
-| Giao diện MochiQuest trên GitHub Pages | Đã triển khai |
-| Workflow build/deploy C++ WebAssembly | Đã chạy thành công theo lần kiểm tra GitHub Actions gần nhất |
-| Tra từ và autocomplete bằng WASM trên giao diện chính | Có mã tích hợp; cần kiểm thử lại trên website |
-| Supabase Auth | Đã cấu hình; đăng ký từng gặp giới hạn email của Supabase Free |
-| Lưu EXP và từ đã học | Có mã tích hợp; cần kiểm tra ghi/đọc sau đăng nhập |
-| Smart Review, tim, xu, tiến độ ải đồng bộ nhiều thiết bị | Chưa hoàn thiện đầy đủ |
-| Phiên bản Windows | Có mã nguồn và script build; cần kiểm thử trên máy demo |
-
-Các mục ghi **có mã tích hợp** không đồng nghĩa đã kiểm thử thành công toàn bộ. Trạng thái cần được cập nhật theo kết quả chạy thực tế trước khi nộp báo cáo.
-
----
 
 ## 🔒 Dữ liệu và bảo mật
 
@@ -381,20 +349,7 @@ Các mục ghi **có mã tích hợp** không đồng nghĩa đã kiểm thử t
 - Backend mặc định lắng nghe tại `127.0.0.1:18765` và phục vụ ứng dụng trên máy cục bộ.
 - Không mở trực tiếp backend lên Internet khi chưa kiểm tra xác thực, phân quyền và bảo vệ API.
 
-Gợi ý `.gitignore`:
 
-```gitignore
-*.exe
-*.dll
-*.pdb
-bin/
-obj/
-publish/
-.vs/
-data/accounts.db
-```
-
----
 
 ## 👥 Thành viên và phân công
 
