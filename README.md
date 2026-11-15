@@ -8,11 +8,15 @@
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Trie](https://img.shields.io/badge/Data%20Structure-Trie-8B5CF6?style=for-the-badge)
+![WebAssembly](https://img.shields.io/badge/Web-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Supabase](https://img.shields.io/badge/Auth%20%26%20DB-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![WebView2](https://img.shields.io/badge/Desktop-WebView2-2563EB?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 **Đồ án môn Cấu trúc dữ liệu và Giải thuật (CTDL & GT) — Đề tài ĐT06**
+
+**🌐 [Mở MochiQuest trực tuyến](https://luutrongnguyenn.github.io/AnhViet_Dictionary/)**
 
 [📂 Mã nguồn GitHub](https://github.com/LuuTrongNguyenn/AnhViet_Dictionary) · [🚀 Hướng dẫn chạy](#-hướng-dẫn-cài-đặt--khởi-chạy) · [🧪 Kiểm thử](#-kiểm-thử--đánh-giá-hiệu-năng)
 
@@ -30,6 +34,8 @@
 - [🔄 Các phiên bản ứng dụng](#-các-phiên-bản-ứng-dụng)
 - [🚀 Hướng dẫn cài đặt và khởi chạy](#-hướng-dẫn-cài-đặt-và-khởi-chạy)
 - [🧪 Kiểm thử và đánh giá hiệu năng](#-kiểm-thử-và-đánh-giá-hiệu-năng)
+- [🌐 Triển khai GitHub Pages và Supabase](#-triển-khai-github-pages-và-supabase)
+- [📌 Trạng thái và giới hạn hiện tại](#-trạng-thái-và-giới-hạn-hiện-tại)
 - [🔒 Dữ liệu và bảo mật](#-dữ-liệu-và-bảo-mật)
 - [👥 Thành viên và phân công](#-thành-viên-và-phân-công)
 
@@ -48,7 +54,9 @@
 - 🔎 **Autocomplete:** Gợi ý từ tiếng Anh khi nhập tiền tố.
 - 🧠 **Smart Review:** Theo dõi và ôn tập các từ đã học.
 - 🐱 **MochiQuest:** Giao diện thế giới phép thuật với khu học, tim, XP và thử thách 100 ải.
-- 🔐 **Tài khoản cục bộ:** Đăng ký, đăng nhập và quản lý phiên trong bản có backend.
+- 🔐 **Tài khoản:** Bản Windows dùng backend cục bộ; bản web tích hợp Supabase Auth (email/mật khẩu).
+- 🌐 **WebAssembly:** Biên dịch Trie C++ để tra từ trên trình duyệt; GitHub Pages phục vụ website.
+- ☁️ **Supabase:** Lưu hồ sơ, tiến độ, từ đã lưu; việc đồng bộ toàn bộ trạng thái trò chơi vẫn đang hoàn thiện.
 - 🧪 **Kiểm thử và benchmark:** Kiểm tra thao tác Trie và đánh giá thời gian xử lý.
 
 
@@ -56,33 +64,35 @@
 
 ## 🏗️ Kiến trúc hệ thống
 
-Hệ thống tổ chức thành các thành phần tách biệt:
+Dự án có **hai đường chạy độc lập** dùng chung phần lõi Trie C++:
 
-| Thành phần | Công nghệ | Vai trò |
+| Thành phần | Bản Windows | Bản website GitHub Pages |
 |---|---|---|
-| **Core Engine** | C++17 | Quản lý dữ liệu từ điển và cấu trúc Trie |
-| **Thuật toán** | Trie + DFS | Tìm từ và gợi ý theo tiền tố |
-| **Backend** | C++ / Winsock | Cung cấp HTTP API cho giao diện |
-| **Frontend** | HTML, CSS, JavaScript | Hiển thị giao diện từ điển và MochiQuest |
-| **Desktop Host** | .NET 8 / Microsoft WebView2 | Chạy giao diện trong cửa sổ ứng dụng Windows |
-| **Lưu trữ** | Tệp UTF-8 và dữ liệu cục bộ | Từ điển, thông tin học tập và tài khoản |
+| Giao diện | HTML/CSS/JavaScript qua WebView2 | HTML/CSS/JavaScript trong trình duyệt |
+| Xử lý Trie | Backend C++ (`src/WebServer.cpp`) | C++ biên dịch thành WebAssembly (`src/wasm_bridge.cpp`) |
+| Gợi ý từ | Trie và DFS ở backend | Trie và DFS chạy trong trình duyệt |
+| Tài khoản | Cơ chế xác thực cục bộ | Supabase Auth (email/mật khẩu) |
+| Dữ liệu học tập | Lưu trữ cục bộ | Supabase cho các trường đã tích hợp; một phần trò chơi vẫn cục bộ |
+| Triển khai | `build_webview2.bat` | GitHub Actions → GitHub Pages |
 
-**Luồng xử lý chính:**
+**Luồng Windows:**
 
 ```text
-Người dùng
-    │
-    ▼
-Giao diện MochiQuest / LexiTrie (HTML, CSS, JavaScript)
-    │  HTTP API
-    ▼
-Backend C++ (WebServer.cpp)
-    │
-    ├── Trie + DFS ────────── Tra cứu và gợi ý từ
-    ├── FileManager ──────── Đọc / ghi dữ liệu từ điển
-    └── SmartReview ──────── Theo dõi và ôn tập từ vựng
+Người dùng → WebView2 → HTTP API 127.0.0.1:18765 → C++ WebServer
+                                                   ├── Trie / DFS
+                                                   ├── FileManager
+                                                   └── SmartReview
 ```
 
+**Luồng website:**
+
+```text
+Người dùng → GitHub Pages → MochiQuest (JavaScript)
+                                ├── WebAssembly → Trie C++ → dữ liệu từ điển
+                                └── Supabase Auth / PostgreSQL → tài khoản, tiến độ
+```
+
+**Quan trọng:** GitHub Pages là dịch vụ lưu trữ tĩnh, không chạy `LexiTrieBackend.exe` hay các endpoint `/api/...` của Windows. Những tính năng còn gọi API cục bộ phải được chuyển đổi hoặc chỉ sử dụng trên bản Windows.
 
 ---
 
@@ -93,6 +103,8 @@ AnhViet_Dictionary/
 ├── README.md                    # Giới thiệu, kiến trúc và hướng dẫn sử dụng dự án
 ├── build_webview2.bat           # Biên dịch backend C++ và khởi chạy ứng dụng Windows
 ├── .gitattributes               # Thiết lập quy tắc xử lý tệp trong Git
+├── .github/workflows/
+│   └── deploy-wasm.yml         # Build C++ WebAssembly và triển khai GitHub Pages
 │
 ├── include/                     # Khai báo lớp, cấu trúc và giao diện hàm C++
 │   ├── Trie.h                   # Định nghĩa cây Trie và các thao tác từ vựng
@@ -106,6 +118,7 @@ AnhViet_Dictionary/
 │   ├── SmartReview.cpp          # Xử lý kết quả học và thống kê ôn tập
 │   ├── ConsoleUI.cpp            # Hiển thị menu và xử lý tương tác console
 │   ├── WebServer.cpp            # HTTP API nội bộ kết nối frontend với C++
+│   ├── wasm_bridge.cpp          # Cầu nối xuất các hàm Trie C++ sang WASM
 │   └── main.cpp                 # Điểm khởi chạy chương trình console
 │
 ├── data/                        # Dữ liệu phục vụ tra cứu và phân loại từ
@@ -120,8 +133,10 @@ AnhViet_Dictionary/
 │   ├── login.css                # Kiểu dáng màn hình đăng nhập/đăng ký
 │   ├── login.js                 # Xử lý tương tác xác thực trên giao diện
 │   ├── mochi-academy-v10.js     # Logic các khu học và thử thách MochiQuest
-│   ├── mochi-integration.js     # Kết nối tính năng MochiQuest với giao diện
-│   └── mochi-vocabulary.json    # Bộ dữ liệu từ vựng cho hoạt động học tập
+│   ├── mochi-integration.js     # Kết nối MochiQuest với Supabase và WASM
+│   ├── mochi-vocabulary.json    # Bộ dữ liệu từ vựng cho hoạt động học tập
+│   ├── wasm-dictionary.html     # Trang thử nghiệm WASM độc lập (nếu giữ lại)
+│   └── wasm-dictionary.js       # Mã cho trang thử nghiệm WASM (nếu giữ lại)
 │
 ├── WebViewHost/                 # Ứng dụng host desktop trên Windows
 │   ├── Program.cs               # Khởi tạo cửa sổ và điều khiển WebView2
@@ -171,11 +186,14 @@ Giao diện học tập được thiết kế theo phong cách **Dark Fantasy**,
 | ⚔️ **Thử thách 100 ải** | Học qua các màn chơi, XP và hệ thống tim |
 
 
-### 5. 🔐 Tài khoản cục bộ
+### 5. 🔐 Đăng ký, đăng nhập và lưu tiến độ
 
-- Đăng ký, đăng nhập và đăng xuất qua backend.
-- Sử dụng phiên đăng nhập trong ứng dụng cục bộ.
-- Không đưa dữ liệu tài khoản thật lên repository công khai.
+- **Windows:** xác thực qua backend C++ và lưu dữ liệu cục bộ.
+- **Website:** tích hợp Supabase Auth theo email và mật khẩu. Khi bật xác nhận email, người dùng phải xác nhận trước khi đăng nhập.
+- Cơ sở dữ liệu Supabase đã được cấu hình các bảng `profiles`, `learning_progress`, `saved_words`, `smart_reviews` với Row Level Security (RLS) theo người dùng.
+- Mã giao diện đã có phần kết nối Supabase cho EXP và từ đã lưu; việc đồng bộ đầy đủ Smart Review, tim, xu, ải và trạng thái trò chơi **chưa hoàn thiện**.
+- Supabase Free có giới hạn gửi email xác nhận; khi demo nên chuẩn bị tài khoản đã xác nhận trước.
+- Không đưa mật khẩu hoặc secret/service-role key vào repository.
 
 ### 6. 📊 Kiểm thử và benchmark
 
@@ -213,9 +231,9 @@ Giao diện học tập được thiết kế theo phong cách **Dark Fantasy**,
 |---|---|---|
 | **C++ Console** | Thực hành và kiểm thử thuật toán | Biên dịch các file C++ phù hợp |
 | **C++ + WebView2** | Bản ứng dụng Windows chính | `build_webview2.bat` |
-| **MochiQuest Web độc lập** | Bản trình diễn HTML trên trình duyệt | Máy chủ tĩnh / GitHub Pages |
+| **MochiQuest Web + C++ WASM** | Bản trực tuyến, dùng Trie C++ trong trình duyệt | [GitHub Pages](https://luutrongnguyenn.github.io/AnhViet_Dictionary/) |
 
-GitHub Pages phục vụ giao diện HTML/CSS/JavaScript tĩnh; backend C++ của bản WebView2 chạy riêng trên Windows.
+Bản website kết nối Supabase cho xác thực và dữ liệu được hỗ trợ. Bản Windows vẫn sử dụng backend C++ riêng.
 
 ---
 
@@ -275,9 +293,20 @@ if ($file) {
 taskkill /IM LexiTrieBackend.exe /F
 ```
 
-### 6. Chạy bản HTML độc lập (nếu có repository web riêng)
+### 6. Chạy bản website trực tuyến
 
-Dùng một static server để phục vụ `index.html` và các file JavaScript / JSON liên quan. Có thể triển khai lên GitHub Pages để chia sẻ giao diện và các chức năng chạy thuần trình duyệt. **Bản này không tự động đồng bộ tài khoản hoặc sử dụng backend Trie C++.**
+Mở: **https://luutrongnguyenn.github.io/AnhViet_Dictionary/**
+
+Phiên bản này được GitHub Actions biên dịch Trie C++ thành WebAssembly và triển khai lên GitHub Pages. Không cần chạy `LexiTrieBackend.exe` trên máy người xem. Việc đăng nhập yêu cầu kết nối Supabase và có thể chịu giới hạn xác thực/email của gói Free.
+
+### 7. Các bước demo đề xuất
+
+1. Mở website và tải lại trang bằng `Ctrl + Shift + R` nếu vừa cập nhật.
+2. Tra từ `apple`, thử gợi ý bằng tiền tố `app`.
+3. Vào các khu học và thử một màn chơi từ vựng.
+4. Đăng nhập bằng **tài khoản demo đã chuẩn bị trước**; kiểm tra EXP và từ đã lưu nếu các thao tác hoạt động.
+5. Trình bày phần thuật toán C++ trong `src/Trie.cpp` và cầu nối `src/wasm_bridge.cpp`.
+6. Nếu bản online gặp lỗi xác thực, dùng bản Windows đã kiểm thử làm phương án dự phòng.
 
 ---
 
@@ -311,11 +340,43 @@ Dùng một static server để phục vụ `index.html` và các file JavaScrip
 
 ---
 
+## 🌐 Triển khai GitHub Pages và Supabase
+
+**Repository:** https://github.com/LuuTrongNguyenn/AnhViet_Dictionary  
+**Website:** https://luutrongnguyenn.github.io/AnhViet_Dictionary/
+
+- Workflow: `.github/workflows/deploy-wasm.yml`.
+- Biên dịch `src/Trie.cpp` và `src/wasm_bridge.cpp` bằng Emscripten thành `lexitrie-wasm.js` và `lexitrie-wasm.wasm`.
+- Giao diện website nạp mô-đun WASM để gọi hàm Trie từ JavaScript.
+- Supabase cung cấp xác thực và các bảng dữ liệu người dùng; website dùng **Project URL + publishable key**, không dùng secret key.
+- Cấu hình `Authentication → URL Configuration` trỏ đến đường dẫn GitHub Pages của dự án.
+- Bật RLS và chính sách chỉ cho phép tài khoản truy cập dữ liệu của chính mình.
+- Khi cập nhật: commit lên nhánh triển khai → kiểm tra **Actions** → mở website để kiểm thử thực tế.
+
+## 📌 Trạng thái và giới hạn hiện tại
+
+| Hạng mục | Trạng thái ghi nhận |
+|---|---|
+| Giao diện MochiQuest trên GitHub Pages | Đã triển khai |
+| Workflow build/deploy C++ WebAssembly | Đã chạy thành công theo lần kiểm tra GitHub Actions gần nhất |
+| Tra từ và autocomplete bằng WASM trên giao diện chính | Có mã tích hợp; cần kiểm thử lại trên website |
+| Supabase Auth | Đã cấu hình; đăng ký từng gặp giới hạn email của Supabase Free |
+| Lưu EXP và từ đã học | Có mã tích hợp; cần kiểm tra ghi/đọc sau đăng nhập |
+| Smart Review, tim, xu, tiến độ ải đồng bộ nhiều thiết bị | Chưa hoàn thiện đầy đủ |
+| Phiên bản Windows | Có mã nguồn và script build; cần kiểm thử trên máy demo |
+
+Các mục ghi **có mã tích hợp** không đồng nghĩa đã kiểm thử thành công toàn bộ. Trạng thái cần được cập nhật theo kết quả chạy thực tế trước khi nộp báo cáo.
+
+---
+
 ## 🔒 Dữ liệu và bảo mật
 
 - Từ điển được lưu trong `data/dictionary.txt` và các tệp dữ liệu hỗ trợ.
 - File `data/accounts.db` chứa thông tin xác thực cục bộ; **không commit lên GitHub**.
 - Không commit cookie, session, khóa bí mật hoặc dữ liệu tài khoản người dùng.
+- Chỉ publish Supabase **publishable key** ở frontend; tuyệt đối không đưa `service_role`, `sb_secret_...` hoặc mật khẩu database lên GitHub.
+- Bật RLS cho các bảng dữ liệu người dùng và giới hạn quyền theo `auth.uid()`.
+- Không nên tắt xác nhận email cho môi trường công khai lâu dài; nên cấu hình SMTP riêng nếu cần đăng ký rộng rãi.
 - Loại bỏ sản phẩm build như `*.exe`, `bin/`, `obj/`, `publish/` khỏi commit khi không cần thiết.
 - Backend mặc định lắng nghe tại `127.0.0.1:18765` và phục vụ ứng dụng trên máy cục bộ.
 - Không mở trực tiếp backend lên Internet khi chưa kiểm tra xác thực, phân quyền và bảo vệ API.
