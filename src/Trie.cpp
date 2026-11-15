@@ -27,7 +27,6 @@ void Trie::clear(TrieNode* node) {
     delete node;
 }
 Trie::~Trie() { clear(root); }
-// DSA-7: Duplicate words are rejected; use update() to change meanings.
 bool Trie::insert(const string& word, const string& meaning) {
     string key;
     if (!normalize(word, key) || meaning.empty()) return false;
@@ -42,7 +41,6 @@ bool Trie::insert(const string& word, const string& meaning) {
     node->meaning = meaning;
     return true;
 }
-// DSA-8
 bool Trie::search(const string& word, string& meaning) const {
     meaning.clear();
     string key;
@@ -56,7 +54,6 @@ bool Trie::search(const string& word, string& meaning) const {
     meaning = node->meaning;
     return true;
 }
-// DSA-9
 bool Trie::update(const string& word, const string& newMeaning) {
     string key;
     if (!normalize(word, key) || newMeaning.empty()) return false;
@@ -69,7 +66,6 @@ bool Trie::update(const string& word, const string& newMeaning) {
     node->meaning = newMeaning;
     return true;
 }
-// DSA-10: true means the current subtree can be pruned.
 bool Trie::deleteHelper(TrieNode* node, const string& word, int depth) {
     if (depth == static_cast<int>(word.size())) {
         node->isEndOfWord = false;
@@ -90,7 +86,6 @@ bool Trie::remove(const string& word) {
     deleteHelper(root, key, 0);
     return true;
 }
-// DSA-11: alphabetical DFS, including prefix itself when it is a word.
 void Trie::dfs(TrieNode* node, string& current, vector<string>& results, int limit) const {
     if (static_cast<int>(results.size()) >= limit) return;
     if (node->isEndOfWord) results.push_back(current);
